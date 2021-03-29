@@ -78,8 +78,13 @@ is very appreciated when others can fill in with timely advice.***
   
 ## YouTube
   
-Each week, we host a live Town Hall on [YouTube](https://www.youtube.com/channel/UC14p9XBzofIsiGvNLpf0wkw/videos)
-every Monday morning at 8am PDT (9am MDT, 10am CDT, 11am EDT).  Town Halls will usually feature a guest
+Each week, we host a live
+
+> **[Town Hall](https://www.youtube.com/channel/UC14p9XBzofIsiGvNLpf0wkw/videos)** -
+> every Monday morning at 8 am PDT\
+>(9 am MDT, 10 am CDT, 11 am EDT)
+
+on YouTube.  Town Halls will usually feature a guest
 speaker from industry or organizations providing additional support services.
   
 Instructors may also upload content to YouTube for you to use as part of your Track.  Links to these videos
@@ -101,7 +106,11 @@ is a one-week grace period if you fall behind on completing assignments.
 ## Help Desk
 
 If you have any issues that you cannot resolved with the above tools please email us
-at info@reskillamericans.org.  We will try to repspond to you within 24 hours.
+at
+
+> info@reskillamericans.org
+
+We will try to repspond to you within 24 hours.
 
 # Calendar
 
