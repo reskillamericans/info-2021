@@ -138,12 +138,12 @@ We will try to repspond to you within 24 hours.
 
 Our program has 4 major tracks (and a couple of sub-tracks).  Click the links below to see track-specific course information.
 
->- [Front-End Track](front-end.md)
->- [Back-End (Java) Track](back-end.md)
->- [Back-End (Python) Track](back-end-)
->- [Mobile (Java) Track](mobile-java.md)
->- [Mobile (Flutter) Track](mobile-flutter.md)
->- [Design UI/UX Track](design-ui-ux.md)
+>- [Front-End Track](tracks/front-end.md)
+>- [Back-End (Java) Track](tracks/back-end.md)
+>- [Back-End (Python) Track](tracks/back-end-)
+>- [Mobile (Java) Track](tracks/mobile-java.md)
+>- [Mobile (Flutter) Track](tracks/mobile-flutter.md)
+>- [Design UI/UX Track](tracks/design-ui-ux.md)
 
 ## General Knowledge
 
