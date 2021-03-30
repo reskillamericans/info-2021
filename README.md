@@ -2,6 +2,20 @@
 
 Program info for participants of the 2021 cohort of Reskill Americans.
 
+# Program Status
+
+*Updated March 29, 2021*
+
+We are entering week 3 of the program this week.  If you are keeping up
+you should:
+
+- Be logging into [Slack](reskillamericans.slack.com) to check **#announcements**.
+- Login to the [LMS](reskillamericans.us) (Learning Management System)
+- Selected a Track to focus on and entered the code from **#announcements** to join the LMS group for that track.
+- Completed your first week's assignments.  If you are not done, you will have until Saturday, April 3rd, to complete them.
+
+**NOTICE**: It's very important that you **complete the Courses assigned to you on time**.  New courses are added to your LMS each Saturday, and you should complete them by the following Saturday.  If you fail to complete them, you will have a one week grace period.  But after that time, **you will no longer be able to participate in our program with unfinished assignments.** *If you do not get a passing grade in an assignment, you can take the test again until you pass.*
+
 # Program Outline
 
 Welcome to our program!  The general outline of our course spans seven
@@ -75,7 +89,6 @@ is very appreciated when others can fill in with timely advice.***
 - **#track-mobile-android**:
 - **#track-mobile-flutter**:
 
-  
 ## YouTube
   
 Each week, we host a live
@@ -94,7 +107,7 @@ will be posted in Slack or the LMS.
   
 The primary course material, schedule, and assignments are all on
   
-> [ReskillAmericans.us](https://reskillamericans.us)
+> [ReskillAmericans.us (LMS)](https://reskillamericans.us)
 
 Each Track will be assigned a Group Code (published in **#announcments**).  Use this
 code to **Join Group** in the LMS.  This will then unlock a set of additional *Courses*
@@ -118,17 +131,21 @@ We will try to repspond to you within 24 hours.
 | --- | --- | --- |
 | Week #1 | March 15 | Orientation.  Explaination of tools and tracks. |
 | Week #2 | March 22 | First week of courses on LMS.  Choice of Track made. |
-| Week #3 | March 29 | Second week of courses.  First week's assignments need to be completed. |
+| Week #3 | March 29 | Second week of courses.  **The first week's assignments need to be completed to remain enrolled in the program**. |
 
 
 # Tracks
 
-## Front-end
+Our program has 4 major tracks (and a couple of sub-tracks).  Click the links below to see track-specific course information.
 
-[Front-End Track](front-end.md)
+>- [Front-End Track](front-end.md)
+>- [Back-End (Java) Track](back-end.md)
+>- [Back-End (Python) Track](back-end-)
+>- [Mobile (Java) Track](mobile-java.md)
+>- [Mobile (Flutter) Track](mobile-flutter.md)
+>- [Design UI/UX Track](design-ui-ux.md)
 
-## Back-end
+## General Knowledge
 
-## Mobile
+There are a couple of Courses that have been assigned to all the programming tacks:
 
-## UI/UX (Design)
