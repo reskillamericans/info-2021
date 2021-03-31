@@ -71,6 +71,10 @@ This week participants begin working with the [Learning Managment System (LMS)](
   
   **Assignment**: Recreate the Google Home page (visual look). **DEADLINE EXTENDED** - since this course was not released until mid-week, the deadline for completion will be next week.
 - **Software Development Life Cycle**. *Video and short quiz explaining how software teams organize their work.*
+
+  ***Supplemental Content***<br>
+  Some people have trouble with the English accent of the video on the LMS.  This video has pretty much the same content and you may find it easier to watch.<br>
+  [Software Development Life Cycle (SDLC) - 9 minutes](https://youtu.be/i-QyW8D3ei0)
 - **Setup for JavaScript** This course simply asks you to install [Node.js](https://nodejs.org/) on your computer and report which version you have running.
 - **Introduction to Programming**.  *Explains computer programming essentials.*
   - Introduction to Programming Section<br>

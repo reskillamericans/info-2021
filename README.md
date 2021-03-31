@@ -203,6 +203,10 @@ This week participants begin working with the [Learning Managment System (LMS)](
 
 - **Talent LMS - Gettings Started**.  *This is the basic introduction to using the learning managament system.*
 - **Software Development Life Cycle**. *Video and short quiz explaining how software teams organize their work.*
+
+    ***Supplemental Content***<br>
+    Some people have trouble with the English accent of the video on the LMS.  This video has pretty much the same content and you may find it easier to watch.<br>
+    [Software Development Life Cycle (SDLC) - 9 minutes](https://youtu.be/i-QyW8D3ei0)
 - **Introduction to Programming**.  *Explains computer programming essentials.*
   - Introduction to Programming Section<br>
     [video](https://youtu.be/zOjov-2OZ0E), [resource](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/1-intro-to-programming-languages), [article](https://www.freecodecamp.org/news/beginners-roadmap-web-development/).
