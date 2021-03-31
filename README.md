@@ -166,7 +166,7 @@ There are a few  Courses that have been assigned to all the programming tacks.  
 **NOTICE:** You will have to have all Week 2 course completed by the end of this week in
 order to continue with the program (these will already be one week past due).  Thank you.
 
-- Introduction to Cloud Computing<br>
+- **Introduction to Cloud Computing**<br>
   *Note that the test may require doing some independent research
   to answer all the questions.  Feel free to use Google to help.*
 
@@ -176,12 +176,12 @@ A couple of
 
 This week participants begin working with the [Learning Managment System (LMS)](https://reskillamericans.us).
 
-- Talent LMS - Gettings Started Links for Learners.  *This is the basic introduciotn to using the learning managament system.*
-- Software Development Life Cycle. *Video and short quiz explaining how software teams organize their work.*
-- Introduction to Programming.  *Explains computer programming essentials.*
-  - Introduction to Programming<br>
+- **Talent LMS - Gettings Started**.  *This is the basic introduciotn to using the learning managament system.*
+- **Software Development Life Cycle**. *Video and short quiz explaining how software teams organize their work.*
+- **Introduction to Programming**.  *Explains computer programming essentials.*
+  - Introduction to Programming Section<br>
     [video](https://youtu.be/zOjov-2OZ0E), [resource](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/1-intro-to-programming-languages), [article](https://www.freecodecamp.org/news/beginners-roadmap-web-development/).
-  - Introduction to Git (Source Control System)<br>
+  - Introduction to Git (Source Control System) Section<br>
     [resource](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/2-github-basics)<br>
   Assignment: Create a personal [GitHub](https://github.com/) account and profile.
 
