@@ -152,11 +152,16 @@ Our program has 4 major tracks (and a couple of sub-tracks).  Click the links be
 track-specific course information.
 
 >- [Front-End Track](tracks/front-end.md)
->- [Back-End (Java) Track](tracks/back-end.md)
->- [Back-End (Python) Track](tracks/back-end-)
->- [Mobile (Java) Track](tracks/mobile-java.md)
+>- [Back-End (JavaScript) Track](tracks/back-end-nodejs.md)
+>- [Back-End (Python) Track](tracks/back-end-python.md)
+>- [Back-End (PHP) Track](tracks/back-end-php.md)
+>- [Mobile (Java/Kotlin) Track](tracks/mobile-java.md)
 >- [Mobile (Flutter) Track](tracks/mobile-flutter.md)
 >- [Design UI/UX Track](tracks/design-ui-ux.md)
+
+Look for the "group code" for your chosen track in **#annoucements** on Slack.  Enter
+into the *Join Group* dialog on [reskillamericans.us](https://reskillamericans.us) in
+order to enroll in that Track.
 
 ## All Programming Tracks (not the Design Track)
 
@@ -170,8 +175,16 @@ order to continue with the program (these will already be one week past due).  T
 - **Introduction to Cloud Computing**<br>
   *Note that the test may require doing some independent research
   to answer all the questions.  Feel free to use Google to help.*
+- **Basic Git for complete beginners.**<br>
+  Explains the Git version control system and Github (in more depth
+  than last week's Introduction to Programming course).
+  - [Git 01 - Introduction - 11 minute](https://youtu.be/dI_CUlVKrFw)
+  - [Git 02 - Pushing to GitHub - 16 minutes](https://youtu.be/0FaJF4t5Kfo)
+  - [Git 03 - Cloing and Pushing to GitHub - 15 minutes](https://youtu.be/2chNGl5RGy4)
+  - [Git 04 - GitHub Desktop - 8 minutes](https://youtu.be/YUkoy0PlTFQ) - *a graphical user interface option to the command line git.*
 
-A couple of 
+  **Assignment**: Create a github repo the same name as your github username (this will later be your online portfolio).
+
 
 ### Week 2 Courses (March 21 - 27)
 
