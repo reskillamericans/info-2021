@@ -17,6 +17,8 @@
   - [Git 04 - GitHub Desktop - 8 minutes](https://youtu.be/YUkoy0PlTFQ) - *a graphical user interface option to the command line git.*
 
   **Assignment**: Create a github repo the same name as your github username (this will later be your online portfolio).
+- *Note the Google Home Page assignment from last week is due this
+   week if you've not yet finished it.*
 
 ## Week 2 Courses (March 21 - 27)
 
@@ -32,7 +34,7 @@ This week participants begin working with the [Learning Managment System (LMS)](
   - [MDN CSS documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
   - [HTML and CSS Video Course - 1.5 hours](https://youtu.be/kLO4X_3VYdg)<br>
   
-  **Assignment**: Recreate the Google Home page (visual look).
+  **Assignment**: Recreate the Google Home page (visual look). **DEADLINE EXTENDED** - since this course was not released until mid-week, the deadline for completion will be next week.
 - **Software Development Life Cycle**. *Video and short quiz explaining how software teams organize their work.*
 - **Setup for JavaScript** This course simply asks you to install [Node.js](https://nodejs.org/) on your computer and report which version you have running.
 - **Introduction to Programming**.  *Explains computer programming essentials.*
