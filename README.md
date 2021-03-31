@@ -182,7 +182,7 @@ order to continue with the program (these will already be one week past due).  T
   than last week's Introduction to Programming course).
   - [Git 01 - Introduction - 11 minutes](https://youtu.be/dI_CUlVKrFw)
   - [Git 02 - Pushing to GitHub - 16 minutes](https://youtu.be/0FaJF4t5Kfo)
-  - [Git 03 - Cloing and Pushing to GitHub - 15 minutes](https://youtu.be/2chNGl5RGy4)
+  - [Git 03 - Cloning and Pushing to GitHub - 15 minutes](https://youtu.be/2chNGl5RGy4)
   - [Git 04 - GitHub Desktop - 8 minutes](https://youtu.be/YUkoy0PlTFQ) - *a graphical user interface option to the command line git.*
 
   **Assignment**: Create a github repo the same name as your github username (this will later be your online portfolio).
