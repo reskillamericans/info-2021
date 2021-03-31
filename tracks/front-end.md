@@ -35,6 +35,20 @@ This week participants begin working with the [Learning Managment System (LMS)](
 - **Introduction to HTML and CSS**.<br>
   This course teaches you to set up your development environment,
   learn basic HTML and CSS syntax, and explains some best practices.
+
+  - [Learn HTML Interactive Tutorial](https://www.learn-html.org/) - Work excercises Hello, World through Pseudo-classes (9 excercises).  These are quick introductions to the various components of HTML and CSS languages.
+    - [Hello, World](https://www.learn-html.org/en/Hello%2C_World%21) covers tags `<html>, <head>, <body>, <title>, <p>`
+    - [Basic Elements](https://www.learn-html.org/en/Basic_Elements) mentions tags `<h1> .. <h6>, <p>, <hr>, <a>, <ul>, <ol>, <li>, <img>, <div>, <span>` and attributes `id, class, style`
+    - [Links](https://www.learn-html.org/en/Links) covers the `<a>` tag and the `href` attribute.
+    - [Lists](https://www.learn-html.org/en/Lists) covers tags `<ol>, <ul>, <li>` and style `list-style-type`.
+    - [Images](https://www.learn-html.org/en/Images) covers the `<img>` tag and the `src, width, style and alt` attributes.  The CSS `float` property is introduced.
+    - [Styles](https://www.learn-html.org/en/Styles) explains inline styles vs style sheets.  Covers the `<style> and <link>` tags and the `rel` attribute.  The `<script>` tag is mentioned for inserting inline JavaScript.
+    - [CSS Classes](https://www.learn-html.org/en/Classes) explains how styles can be assigned to elements with named `class` attributes.
+    - [CSS Selectors](https://www.learn-html.org/en/Selectors) describes the powerful "query" capability of CSS to match elements in an HTML document.  Covers use of the `class` and `id` HTML attributes.
+    - [Pseudo-classes](https://www.learn-html.org/en/Pseudo-classes) shows special classes for visited links, and changing style when hovering the cursor over an element.  Introduces the `<input>` tag and using the `:link, :visited, :target, :active, :hover, and :focus` pseudo-classes.`
+
+  - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) is a very extensive 12-lesson book-length course.  It goes into everything covered in the previous reference in great detail.  Recommend you look at all 12 "Lessons" (chapters) to be familiar with the concepts.  Lessons 1 - 4 are especially relevant to the assignment, so pay most attention to those.  Save the link to use this as a reference while doing the assignment.
+
   Resource referenced include:
   - [W3Schools HTML Tutorial](https://www.w3schools.com/html/default.asp)
   - [W3Schools CSS tutorial](https://www.w3schools.com/html/default.asp)
