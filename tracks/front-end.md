@@ -10,6 +10,8 @@ This document is available at:
 
 ## Week 3 Courses (March 28 - April 3)
 
+*Note from Mike: Please do be sure to give enough attention to last week's HTML and CSS Introduction.  It is a **core** part of your understanding.  I recommend completing that before tackling Git or JavaScript this week - it's really the most important foundation for your training.  The Google Home page assignment from that course will be due this week.*
+
 - **Introduction to Cloud Computing**<br>
   *Note that the test may require doing some independent research
   to answer all the questions.  Feel free to use Google to help.*
@@ -25,7 +27,7 @@ This document is available at:
   - [Git 04 - GitHub Desktop - 8 minutes](https://youtu.be/YUkoy0PlTFQ) - *a graphical user interface option to the command line git.*
 
   **Assignment**: Create a github repo the same name as your github username (this will later be your online portfolio).
-- *Note the Google Home Page assignment from last week is due this
+- *Note the Google Home page assignment from last week is due this
    week if you've not yet finished it.*
 
 ## Week 2 Courses (March 21 - 27)
