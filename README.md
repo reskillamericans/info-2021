@@ -1,5 +1,7 @@
 # Reskill Americans 2021 Program Info
 
+*Updated March 31, 2021*
+
 This document is available at:
 
 [https://reskillamericans.github.io/info-2021/](https://reskillamericans.github.io/info-2021/)
@@ -8,8 +10,6 @@ This document is available at:
 [our Issue Tracker](https://github.com/reskillamericans/info-2021/issues).*
 
 # Program Status
-
-*Updated March 30, 2021*
 
 We are entering week 3 of the program this week.  If you are keeping up
 you should:
@@ -184,6 +184,15 @@ order to continue with the program (these will already be one week past due).  T
 
   **Assignment**: Create a github repo the same name as your github username (this will later be your online portfolio).
 
+  ***Supplemental Content***
+
+  Here's a really nice [github cheat sheet](cheat-sheets/github-git-cheat-sheet.pdf) you should keep by your computer when using git.
+
+  Mike created a couple of videos demonstrating Git and GitHub if you are still feeling unsure about it.
+
+  [Git Demo - 28 minutes](https://youtu.be/RjGRfYAesFw) - Walk through creating a GitHub account, making a repo on GitHub, and doing some commands on the command line to update it.
+
+  [Git Demo Office Hours - 45 minutes](https://www.youtube.com/watch?v=7zXiwnwde9g) - Going through the excercise of connecting to the same repository on github and making and merging two branches.
 
 ### Week 2 Courses (March 21 - 27)
 

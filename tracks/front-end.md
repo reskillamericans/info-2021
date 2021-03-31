@@ -1,5 +1,6 @@
 # Front-End Track
 
+*Updated March 31, 2021*
 
 This document is available at:
 
@@ -29,6 +30,16 @@ This document is available at:
   **Assignment**: Create a github repo the same name as your github username (this will later be your online portfolio).
 - *Note the Google Home page assignment from last week is due this
    week if you've not yet finished it.*
+
+  ***Supplemental Content***
+
+  Here's a really nice [github cheat sheet](cheat-sheets/github-git-cheat-sheet.pdf) you should keep by your computer when using git.
+
+  Mike created a couple of videos demonstrating Git and GitHub if you are still feeling unsure about it.
+
+  [Git Demo - 28 minutes](https://youtu.be/RjGRfYAesFw) - Walk through creating a GitHub account, making a repo on GitHub, and doing some commands on the command line to update it.
+
+  [Git Demo Office Hours - 45 minutes](https://www.youtube.com/watch?v=7zXiwnwde9g) - Going through the excercise of connecting to the same repository on github and making and merging two branches.
 
 ## Week 2 Courses (March 21 - 27)
 
