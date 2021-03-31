@@ -6,7 +6,7 @@ https://reskillamericans.github.io/info-2021/
 
 # Program Status
 
-*Updated March 29, 2021*
+*Updated March 30, 2021*
 
 We are entering week 3 of the program this week.  If you are keeping up
 you should:
