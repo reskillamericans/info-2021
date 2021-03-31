@@ -38,7 +38,8 @@ months.  During that time we will be:
 - 3 months: "Virtual" Internship
 
 We officially starting the program on March 15th, with a final registration
-deadline of March 7, 2021.
+deadline of March 7, 2021.  We published a [Syllabus Summary](syllabus-summary.pdf) in
+early March.
 
 # Communication and Sites
 
