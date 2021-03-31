@@ -6,7 +6,7 @@ available at:
 [https://reskillamericans.github.io/info-2021/](https://reskillamericans.github.io/info-2021/)
 
 *Please report problems with this document at
-[our Issue Tracker](https://github.com/reskillamericans/info-2021/issues).
+[our Issue Tracker](https://github.com/reskillamericans/info-2021/issues).*
 
 # Program Status
 
@@ -141,10 +141,9 @@ We will try to repspond to you within 24 hours.
 
 | Week | Start Date | Description |
 | --- | --- | --- |
-| Week #1 | March 15 | Orientation.  Explaination of tools and tracks. |
-| Week #2 | March 22 | First week of courses on LMS.  Choice of Track made. |
-| Week #3 | March 29 | Second week of courses.  **The first week's assignments need to be completed to remain enrolled in the program**. |
-
+| Week #3 | March 29 - April 3| Second week of courses.  **The first week's assignments need to be completed to remain enrolled in the program**. |
+| Week #2 | March 21 - 27 | First week of courses on LMS.  Choice of Track made. |
+| Week #1 | March 15 - 20 | Orientation.  Explaination of tools and tracks. |
 
 # Tracks
 
