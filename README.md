@@ -1,6 +1,8 @@
 # Reskill Americans Participant Info
 
-Program info for participants of the 2021 cohort of Reskill Americans.
+Program info for participants of the 2021 cohort of Reskill Americans.  This document is available at:
+
+https://reskillamericans.github.io/info-2021/
 
 # Program Status
 
