@@ -204,5 +204,5 @@ This week participants begin working with the [Learning Managment System (LMS)](
 The first week of class was devoted to orientation and describing the content of the different tracks available to participants.  The goal being for everyone to make a decision about which track to focus on.
 
 - [Orientation Design (UI/UX) and Backend Tracks](https://youtu.be/0pmyohlou1A)
-- [Orientation: NodeJS, Font-End, and Mobile Tracks](https://youtu.be/E2J1rfd49ZI)
+- [Orientation: NodeJS, Front-End, and Mobile Tracks](https://youtu.be/E2J1rfd49ZI)
 - [Orientation: Introduction to the LMS](https://youtu.be/gKWm3rfPJh4)
