@@ -177,7 +177,7 @@ order to continue with the program (these will already be one week past due).  T
 - **Basic Git for complete beginners.**<br>
   Explains the Git version control system and Github (in more depth
   than last week's Introduction to Programming course).
-  - [Git 01 - Introduction - 11 minute](https://youtu.be/dI_CUlVKrFw)
+  - [Git 01 - Introduction - 11 minutes](https://youtu.be/dI_CUlVKrFw)
   - [Git 02 - Pushing to GitHub - 16 minutes](https://youtu.be/0FaJF4t5Kfo)
   - [Git 03 - Cloing and Pushing to GitHub - 15 minutes](https://youtu.be/2chNGl5RGy4)
   - [Git 04 - GitHub Desktop - 8 minutes](https://youtu.be/YUkoy0PlTFQ) - *a graphical user interface option to the command line git.*
