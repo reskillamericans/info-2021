@@ -190,7 +190,7 @@ order to continue with the program (these will already be one week past due).  T
 
 This week participants begin working with the [Learning Managment System (LMS)](https://reskillamericans.us).
 
-- **Talent LMS - Gettings Started**.  *This is the basic introduciotn to using the learning managament system.*
+- **Talent LMS - Gettings Started**.  *This is the basic introduction to using the learning managament system.*
 - **Software Development Life Cycle**. *Video and short quiz explaining how software teams organize their work.*
 - **Introduction to Programming**.  *Explains computer programming essentials.*
   - Introduction to Programming Section<br>

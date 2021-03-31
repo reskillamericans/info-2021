@@ -33,8 +33,8 @@ This week participants begin working with the [Learning Managment System (LMS)](
   - [HTML and CSS Video Course - 1.5 hours](https://youtu.be/kLO4X_3VYdg)<br>
   
   **Assignment**: Recreate the Google Home page (visual look).
-- **Talent LMS - Gettings Started**.  *This is the basic introduciotn to using the learning managament system.*
 - **Software Development Life Cycle**. *Video and short quiz explaining how software teams organize their work.*
+- **Setup for JavaScript** This course simply asks you to install [Node.js](https://nodejs.org/) on your computer and report which version you have running.
 - **Introduction to Programming**.  *Explains computer programming essentials.*
   - Introduction to Programming Section<br>
     [video](https://youtu.be/zOjov-2OZ0E), [resource](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/1-intro-to-programming-languages), [article](https://www.freecodecamp.org/news/beginners-roadmap-web-development/).
