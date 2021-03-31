@@ -78,6 +78,9 @@ Feel free to join a smaller community of participants in your area.
 - **#study-group-new-york**: 
 - **#study-group-seattle**: 
 
+- **#study-group-novices**: There are **no** stupid questions.  But, if you'd like to join a study group
+of self-identifying "novices" - here you go.
+
 ### Track Specific Channels
 
 For participants that have chosen a track, the best place to ask questions is in
