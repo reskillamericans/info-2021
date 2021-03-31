@@ -33,7 +33,7 @@ This document is available at:
 
   ***Supplemental Content***
 
-  Here's a really nice [github cheat sheet](/cheat-sheets/github-git-cheat-sheet.pdf) you should keep by your computer when using git.
+  Here's a really nice [github cheat sheet](../cheat-sheets/github-git-cheat-sheet.pdf) you should keep by your computer when using git.
 
   Mike created a couple of videos demonstrating Git and GitHub if you are still feeling unsure about it.
 
