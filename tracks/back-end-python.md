@@ -2,7 +2,7 @@
 
 This document is available at:
 
-[https://reskillamericans.github.io/info-2021/](https://reskillamericans.github.io/info-2021/tracks/back-end-python.html)
+[https://reskillamericans.github.io/info-2021/tracks/back-end-python](https://reskillamericans.github.io/info-2021/tracks/back-end-python)
 
 *Please report problems with this document at
 [our Issue Tracker](https://github.com/reskillamericans/info-2021/issues).*

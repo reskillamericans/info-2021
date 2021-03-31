@@ -3,7 +3,7 @@
 
 This document is available at:
 
-[https://reskillamericans.github.io/info-2021/](https://reskillamericans.github.io/info-2021/tracks/front-end.html)
+[https://reskillamericans.github.io/info-2021/tracks/front-end](https://reskillamericans.github.io/info-2021/tracks/front-end)
 
 *Please report problems with this document at
 [our Issue Tracker](https://github.com/reskillamericans/info-2021/issues).*
