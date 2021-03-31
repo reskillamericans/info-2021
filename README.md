@@ -93,7 +93,7 @@ is very appreciated when others can fill in with timely advice.***
   
 Each week, we host a live
 
-> **[Town Hall](https://www.youtube.com/channel/UC14p9XBzofIsiGvNLpf0wkw/videos)** -
+> **[Town Hall](https://www.youtube.com/playlist?list=PLr3WRbNafK3lbWUVDn39B4ba2238oQb0A)** -
 > every Monday morning at 8 am PDT\
 >(9 am MDT, 10 am CDT, 11 am EDT)
 
@@ -145,7 +145,37 @@ Our program has 4 major tracks (and a couple of sub-tracks).  Click the links be
 >- [Mobile (Flutter) Track](tracks/mobile-flutter.md)
 >- [Design UI/UX Track](tracks/design-ui-ux.md)
 
-## General Knowledge
+## All Programming Tracks (not the Design Track)
 
-There are a couple of Courses that have been assigned to all the programming tacks:
+There are a few  Courses that have been assigned to all the programming tacks.  They are listed in in reverse chronological order.
 
+### Week 3 Courses (March 28 - April 3)
+
+**NOTICE:** You will have to have all Week 2 course completed by the end of this week in order to continue with the program (these will already be one week past due).  Thank you.
+
+- Introduction to Cloud Computing<br>
+  *Note that the test may require doing some independent research
+  to answer all the questions.  Feel free to use Google to help.*
+
+A couple of 
+
+### Week 2 Courses (March 21 - 27)
+
+This week participants begin working with the [Learning Managment System (LMS)](https://reskillamericans.us).
+
+- Talent LMS - Gettings Started Links for Learners.  *This is the basic introduciotn to using the learning managament system.*
+- Software Development Life Cycle. *Video and short quiz explaining how software teams organize their work.*
+- Introduction to Programming.  *Explains computer programming essentials.*
+  - Introduction to Programming<br>
+    [video](https://youtu.be/zOjov-2OZ0E), [resource](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/1-intro-to-programming-languages), [article](https://www.freecodecamp.org/news/beginners-roadmap-web-development/).
+  - Introduction to Git (Source Control System)<br>
+    [resource](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/2-github-basics)<br>
+  Assignment: Create a personal [GitHub](https://github.com/) account and profile.
+
+### Week 1 Courses and Videos (March 15 - 20)
+
+The first week of class was devoted to orientation and describing the content of the different tracks available to participants.  The goal being for everyone to make a decision about which track to focus on.
+
+- [Orientation Design (UI/UX) and Backend Tracks](https://youtu.be/0pmyohlou1A)
+- [Orientation: NodeJS, Font-End, and Mobile Tracks](https://youtu.be/E2J1rfd49ZI)
+- [Orientation: Introduction to the LMS](https://youtu.be/gKWm3rfPJh4)
