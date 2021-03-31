@@ -1,8 +1,12 @@
 # Reskill Americans Participant Info
 
-Program info for participants of the 2021 cohort of Reskill Americans.  This document is available at:
+Program info for participants of the 2021 cohort of Reskill Americans.  This document is
+available at:
 
-https://reskillamericans.github.io/info-2021/
+[https://reskillamericans.github.io/info-2021/](https://reskillamericans.github.io/info-2021/)
+
+*Please report problems with this document at
+[our Issue Tracker](https://github.com/reskillamericans/info-2021/issues).
 
 # Program Status
 
@@ -13,10 +17,16 @@ you should:
 
 - Be logging into [Slack](reskillamericans.slack.com) to check **#announcements**.
 - Login to the [LMS](reskillamericans.us) (Learning Management System)
-- Selected a Track to focus on and entered the code from **#announcements** to join the LMS group for that track.
-- Completed your first week's assignments.  If you are not done, you will have until Saturday, April 3rd, to complete them.
+- Selected a Track to focus on and entered the code from **#announcements** to join the LMS group
+  for that track.
+- Completed your first week's assignments.  If you are not done, you will have until Saturday,
+  April 3rd, to complete them.
 
-**NOTICE**: It's very important that you **complete the Courses assigned to you on time**.  New courses are added to your LMS each Saturday, and you should complete them by the following Saturday.  If you fail to complete them, you will have a one week grace period.  But after that time, **you will no longer be able to participate in our program with unfinished assignments.** *If you do not get a passing grade in an assignment, you can take the test again until you pass.*
+**NOTICE**: It's very important that you **complete the Courses assigned to you on time**.  New
+courses are added to your LMS each Saturday, and you should complete them by the following Saturday.
+If you fail to complete them, you will have a one week grace period.  But after that time, **you
+will no longer be able to participate in our program with unfinished assignments.** *If you do not
+get a passing grade in an assignment, you can take the test again until you pass.*
 
 # Program Outline
 
@@ -138,7 +148,8 @@ We will try to repspond to you within 24 hours.
 
 # Tracks
 
-Our program has 4 major tracks (and a couple of sub-tracks).  Click the links below to see track-specific course information.
+Our program has 4 major tracks (and a couple of sub-tracks).  Click the links below to see
+track-specific course information.
 
 >- [Front-End Track](tracks/front-end.md)
 >- [Back-End (Java) Track](tracks/back-end.md)
@@ -153,7 +164,8 @@ There are a few  Courses that have been assigned to all the programming tacks.  
 
 ### Week 3 Courses (March 28 - April 3)
 
-**NOTICE:** You will have to have all Week 2 course completed by the end of this week in order to continue with the program (these will already be one week past due).  Thank you.
+**NOTICE:** You will have to have all Week 2 course completed by the end of this week in
+order to continue with the program (these will already be one week past due).  Thank you.
 
 - Introduction to Cloud Computing<br>
   *Note that the test may require doing some independent research
