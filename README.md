@@ -1,4 +1,4 @@
-# Reskill Americans 2021 Program Info
+# Reskill Americans 2021 Program Info/Course Notes
 
 *Updated March 31, 2021*
 
@@ -8,6 +8,11 @@ This document is available at:
 
 *Please report problems with this document at
 [our Issue Tracker](https://github.com/reskillamericans/info-2021/issues).*
+
+# Quick Links to Track Course Notes
+
+| [Front-End](tracks/front-end.md) | [Node.js](tracks/back-end-nodejs.md) | [Python](tracks/back-end-python.md) | [PHP](tracks/back-end-php.md) | [Android](tracks/mobile-android.md) | [Flutter](tracks/mobile-flutter.md) | [Design](tracks/design-ui-ux.md) |
+| --- | --- | --- | --- | --- | --- | --- |
 
 # Program Status
 
@@ -22,10 +27,13 @@ you should:
   April 3rd, to complete them.
 
 **NOTICE**: It's very important that you **complete the Courses assigned to you on time**.  New
-courses are added to your LMS each Saturday, and you should complete them by the following Saturday.
+courses are usually added to your LMS each Saturday, and you should complete them by the following Saturday.
 If you fail to complete them, you will have a one week grace period.  But after that time, **you
 will no longer be able to participate in our program with unfinished assignments.** *If you do not
 get a passing grade in an assignment, you can take the test again until you pass.*
+
+*In any event - you will always have a whole week from the time an assigment is given, to it being due.
+And you will be given 1 week after that as a grace period if you miss the due date.*
 
 # Program Outline
 
@@ -77,7 +85,7 @@ Feel free to join a smaller community of participants in your area.
 - **#study-group-florida**
 - **#study-group-houston**
 - **#study-group-new-york**
-- **#study-group-seattle** 
+- **#study-group-seattle**
 
 - **#study-group-novices**: There are **no** stupid questions anywhere.
   But, if you'd like to join a study group of self-identifying
