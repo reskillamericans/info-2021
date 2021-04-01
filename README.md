@@ -11,8 +11,13 @@ This document is available at:
 
 # Quick Links to Track Course Notes
 
-| [Front-End](tracks/front-end.md) | [Node.js](tracks/back-end-nodejs.md) | [Python](tracks/back-end-python.md) | [PHP](tracks/back-end-php.md) | [Android](tracks/mobile-android.md) | [Flutter](tracks/mobile-flutter.md) | [Design](tracks/design-ui-ux.md) |
-| --- | --- | --- | --- | --- | --- | --- |
+[Front-End](tracks/front-end.md)&nbsp;&nbsp;
+[Node.js](tracks/back-end-nodejs.md)&nbsp;&nbsp;
+[Python](tracks/back-end-python.md)&nbsp;&nbsp;
+[PHP](tracks/back-end-php.md)&nbsp;&nbsp;
+[Android](tracks/mobile-android.md)&nbsp;&nbsp;
+[Flutter](tracks/mobile-flutter.md)&nbsp;&nbsp;
+[Design](tracks/design-ui-ux.md)
 
 # Program Status
 
