@@ -65,21 +65,23 @@ We have set up the following channels on Slack:
 
 Feel free to join a smaller community of participants in your area.
 
-- **#study-group-atlanta**:
-- **#study-group-austin**: 
-- **#study-group-birmingham**: 
-- **#study-group-boston**: 
+- **#study-group-atlanta**
+- **#study-group-austin** 
+- **#study-group-birmingham**
+- **#study-group-boston**
 - **#study-group-ca**: California
-- **#study-group-chicago**: 
-- **#study-group-dallas**: 
+- **#study-group-chicago**
+- **#study-group-charlotte**
+- **#study-group-dallas** 
 - **#study-group-dmv**: DC, Maryland, and Virginia
-- **#study-group-florida**: 
-- **#study-group-houston**: 
-- **#study-group-new-york**: 
-- **#study-group-seattle**: 
+- **#study-group-florida**
+- **#study-group-houston**
+- **#study-group-new-york**
+- **#study-group-seattle** 
 
-- **#study-group-novices**: There are **no** stupid questions.  But, if you'd like to join a study group
-of self-identifying "novices" - here you go.
+- **#study-group-novices**: There are **no** stupid questions anywhere.
+  But, if you'd like to join a study group of self-identifying
+  "novices" - here you go.
 
 ### Track Specific Channels
 
@@ -93,16 +95,17 @@ Your instructors and mentors will be monitoring these channels for questions.
 help out and answer it - there are many more participants than mentors so it
 is very appreciated when others can fill in with timely advice.***
 
-- **#track-backend**:
-- **#track-backend-javascript**:
-- **#track-backend-python**:
-- **#track-design**:
-- **#track-frontend**:
-- **#track-frontend-html-css**:
-- **#track-frontend-javascript**:
-- **#track-mobile**:
-- **#track-mobile-android**:
-- **#track-mobile-flutter**:
+- **#track-backend**
+- **#track-backend-javascript**
+- **#track-backend-php**
+- **#track-backend-python**
+- **#track-design**
+- **#track-frontend**
+- **#track-frontend-html-css**
+- **#track-frontend-javascript**
+- **#track-mobile**
+- **#track-mobile-android**
+- **#track-mobile-flutter**
 
 ## YouTube
   
