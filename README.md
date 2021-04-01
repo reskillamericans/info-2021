@@ -157,7 +157,7 @@ track-specific course information.
 >- [Back-End (JavaScript) Track](tracks/back-end-nodejs.md)
 >- [Back-End (Python) Track](tracks/back-end-python.md)
 >- [Back-End (PHP) Track](tracks/back-end-php.md)
->- [Mobile (Java/Kotlin) Track](tracks/mobile-java.md)
+>- [Mobile Android (Java/Kotlin) Track](tracks/mobile-android.md)
 >- [Mobile (Flutter) Track](tracks/mobile-flutter.md)
 >- [Design UI/UX Track](tracks/design-ui-ux.md)
 
