@@ -9,6 +9,19 @@ This document is available at:
 *Please report problems with this document at
 [our Issue Tracker](https://github.com/reskillamericans/info-2021/issues/new?title=back-end-python:).*
 
+## Your Instructors
+
+Your instructors and mentors in this course include:
+
+| Name | Slack Username |
+| --- | --- |
+| Eniayomi | **@eniayomi** |
+| Eniola Medunoye	| **@Enny** |
+<br>
+
+You are welcome to message them directly, but please post questions that would
+benefit all of your peers at **#track-backend-python**.
+
 ## Week 3 Courses (March 28 - April 3)
 
 - **Python Syntax and Automated Teller Machine mock project**<br>

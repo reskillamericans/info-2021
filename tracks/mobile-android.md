@@ -1,6 +1,6 @@
 # Mobile Track - Android (Java/Kotlin)
 
-*Updated March 31, 2021*
+*Updated April 1, 2021*
 
 This document is available at:
 
@@ -8,6 +8,20 @@ This document is available at:
 
 *Please report problems with this document at
 [our Issue Tracker](https://github.com/reskillamericans/info-2021/issues/new?title=mobile-android.md:).*
+
+## Your Instructors
+
+Your instructors and mentors in this course include:
+
+| Name | Slack Username |
+| --- | --- |
+| Nwanwobi, Samuel | **@SammyBloom** |
+| Abdulkarim Abdulrahman | **@abdul** |
+| Osemwingie Oshodin | **@Ogie** |
+<br>
+
+You are welcome to message them directly, but please post questions that would
+benefit all of your peers at **#track-mobile-android**.
 
 ## Week 3 Courses (March 28 - April 3)
 

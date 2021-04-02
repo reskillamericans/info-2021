@@ -3,7 +3,20 @@
 [https://reskillamericans.github.io/info-2021/tracks/design-ui-ux](https://reskillamericans.github.io/info-2021/tracks/design-ui-ux)
 
 *Please report problems with this document at
-[our Issue Tracker](https://github.com/reskillamericans/info-2021/issues).*
+[our Issue Tracker](https://github.com/reskillamericans/info-2021/issues/new?title=design-ui-ux:).*
+
+## Your Instructors
+
+Your instructors and mentors in this course include:
+
+| Name | Slack Username |
+| --- | --- |
+| Dim Charles	| **@charles** |
+| Iheonye Chukwuemeka	| **@Sophisticateddev** |
+<br>
+
+You are welcome to message them directly, but please post questions that would
+benefit all of your peers at **#track-design**.
 
 ## Week 3 Courses (March 28 - April 3)
 

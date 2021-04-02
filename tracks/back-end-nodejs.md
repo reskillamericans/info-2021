@@ -7,7 +7,22 @@ This document is available at:
 [https://reskillamericans.github.io/info-2021/tracks/back-end-nodejs](https://reskillamericans.github.io/info-2021/tracks/back-end-nodejs)
 
 *Please report problems with this document at
-[our Issue Tracker](https://github.com/reskillamericans/info-2021/issues).*
+[our Issue Tracker](https://github.com/reskillamericans/info-2021/issues/new?title=back-end-node:).*
+
+## Your Instructors
+
+Your instructors and mentors in this course include:
+
+| Name | Slack Username |
+| --- | --- |
+| Sydney Ekpo	| **@sydney** |
+| Idris Lawal	| **@Idris** |
+| Jeremiah Iromaka | **@jeremiahiro** |
+| Alexander Garuba	| **@professor** |
+<br>
+
+You are welcome to message them directly, but please post questions that would
+benefit all of your peers at **#track-backend-javascript**.
 
 ## Week 3 Courses (March 28 - April 3)
 

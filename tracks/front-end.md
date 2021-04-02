@@ -1,13 +1,31 @@
 # Front-End Track
 
-*Updated March 31, 2021*
+*Updated April 1, 2021*
 
 This document is available at:
 
 [https://reskillamericans.github.io/info-2021/tracks/front-end](https://reskillamericans.github.io/info-2021/tracks/front-end)
 
 *Please report problems with this document at
-[our Issue Tracker](https://github.com/reskillamericans/info-2021/issues).*
+[our Issue Tracker](https://github.com/reskillamericans/info-2021/issues/new?title=front-end:).*
+
+## Your Instructors
+
+Your instructors and mentors in this course include:
+
+| Name | Slack Username |
+| --- | --- |
+| Jeremiah Iromaka | **@jeremiahiro** |
+| Jeffrey Ogah | **@Jeff** |
+| Okoro Alvin Uchenna	| **@Alvin** |
+| Goodnews Sandy | **@Sandy** |
+| Jimi Adeboga | **@Jimi** |
+| Duru-young Raymond | **@ray** |
+| Idris Lawal | **@Idris** |
+<br>
+
+You are welcome to message them directly, but please post questions that would
+benefit all of your peers at **#track-frontend**.
 
 ## Week 3 Courses (March 28 - April 3)
 
