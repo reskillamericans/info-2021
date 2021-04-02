@@ -21,11 +21,32 @@ This document is available at:
 
 # Your Program Organizers
 
-| Name | Slack Username | Title |
-| --- | --- | --- |
-| Seyi Onifade | **@xyluz** | Educational Coordinator |
-| Mike Koss | **@Mike Koss** | Board Member<br>Head Cheerleader |
-| Adejuwon Isola-Osobu | **@Juwon O** | Program Director |
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Slack Username</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Seyi Onifade</td>
+<td><strong>@xyluz</strong></td>
+<td>Educational Coordinator</td>
+</tr>
+<tr>
+<td>Mike Koss</td>
+<td><strong>@Mike Koss</strong></td>
+<td>Board Member<br>Head Cheerleader</td>
+</tr>
+<tr>
+<td>Adejuwon Isola-Osobu</td>
+<td><strong>@Juwon O</strong></td>
+<td>Program Director</td>
+</tr>
+</tbody>
+</table>
 <br>
 
 *Feel free to message us on Slack if you need assistance during the program
