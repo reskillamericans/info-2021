@@ -23,7 +23,6 @@ This document is available at:
 
 | Name | Slack Username | Title |
 | --- | --- | --- |
-
 | Seyi Onifade | **@xyluz** | Educational Coordinator |
 | Mike Koss | **@Mike Koss** | Board Member<br>Head Cheerleader |
 | Adejuwon Isola-Osobu | **@Juwon O** | Program Director |
