@@ -21,14 +21,11 @@ This document is available at:
 
 # Your Program Organizers
 
-<table>
-<!-- gh-pages tables are not rendering - hand coding -->
-<tr><th>Name</th><th>Slack Username</th><th>Title</th></tr>
-<tr><td>Seyi Onifade</td><td><b>@xyluz</b></td><td>Educational Coordinator</td></tr>
-<tr><td>Mike Koss</td><td><b>@Mike Koss</b></td><td>Board Member<br>Head Cheerleader</td></tr>
-<td><td>
-<tr><td>Adejuwon Isola-Osobu</td><td><b>@Juwon O</b></td><td>Program Director</td></tr>
-</table>
+| Name | Slack Username | Title |
+| --- | --- | --- |
+| Seyi Onifade | **@xyluz** | Educational Coordinator |
+| Mike Koss | **@Mike Koss** | Board Member<br>Head Cheerleader |
+| Adejuwon Isola-Osobu | **@Juwon O** | Program Director |
 <br>
 
 *Feel free to message us on Slack if you need assistance during the program
