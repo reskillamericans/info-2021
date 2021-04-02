@@ -13,12 +13,28 @@ This document is available at:
 
 Your instructors and mentors in this course include:
 
-| Name | Slack Username |
-| --- | --- |
-| Nwanwobi, Samuel | **@SammyBloom** |
-| Abdulkarim Abdulrahman | **@abdul** |
-| Osemwingie Oshodin | **@Ogie** |
-<br>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Slack Username</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nwanwobi, Samuel</td>
+<td><strong>@SammyBloom</strong></td>
+</tr>
+<tr>
+<td>Abdulkarim Abdulrahman</td>
+<td><strong>@abdul</strong></td>
+</tr>
+<tr>
+<td>Osemwingie Oshodin</td>
+<td><strong>@Ogie</strong></td>
+</tr>
+</tbody>
+</table>
 
 You are welcome to message them directly, but please post questions that would
 benefit all of your peers at **#track-mobile-android**.

@@ -47,7 +47,6 @@ This document is available at:
 </tr>
 </tbody>
 </table>
-<br>
 
 *Feel free to message us on Slack if you need assistance during the program
 outside of help from your instructors.  You can also email us at info@reskillamericans.org.*

@@ -13,13 +13,32 @@ This document is available at:
 
 Your instructors and mentors in this course include:
 
-| Name | Slack Username |
-| --- | --- |
-| Sydney Ekpo	| **@sydney** |
-| Idris Lawal	| **@Idris** |
-| Jeremiah Iromaka | **@jeremiahiro** |
-| Alexander Garuba	| **@professor** |
-<br>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Slack Username</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sydney Ekpo</td>
+<td><strong>@sydney</strong></td>
+</tr>
+<tr>
+<td>Idris Lawal</td>
+<td><strong>@Idris</strong></td>
+</tr>
+<tr>
+<td>Jeremiah Iromaka</td>
+<td><strong>@jeremiahiro</strong></td>
+</tr>
+<tr>
+<td>Alexander Garuba</td>
+<td><strong>@professor</strong></td>
+</tr>
+</tbody>
+</table>
 
 You are welcome to message them directly, but please post questions that would
 benefit all of your peers at **#track-backend-javascript**.

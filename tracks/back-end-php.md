@@ -13,12 +13,28 @@ This document is available at:
 
 Your instructors and mentors in this course include:
 
-| Name | Slack Username |
-| --- | --- |
-| Alexander Garuba | **@professor** |
-| Veronica Emiola	| **@Veronica** |
-| Njeakor Paul | **@rapulu** |
-<br>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Slack Username</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alexander Garuba</td>
+<td><strong>@professor</strong></td>
+</tr>
+<tr>
+<td>Veronica Emiola</td>
+<td><strong>@Veronica</strong></td>
+</tr>
+<tr>
+<td>Njeakor Paul</td>
+<td><strong>@rapulu</strong></td>
+</tr>
+</tbody>
+</table>
 
 You are welcome to message them directly, but please post questions that would
 benefit all of your peers at **#track-backend-php**.
