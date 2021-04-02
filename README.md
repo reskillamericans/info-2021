@@ -1,13 +1,13 @@
 # Reskill Americans 2021 Program Info/Course Notes
 
-*Updated March 31, 2021*
+*Updated April 1, 2021*
 
 This document is available at:
 
 [https://reskillamericans.github.io/info-2021/](https://reskillamericans.github.io/info-2021/)
 
 *Please report problems with this document at
-[our Issue Tracker](https://github.com/reskillamericans/info-2021/issues).*
+[our Issue Tracker](https://github.com/reskillamericans/info-2021/issues/new?title=README:).*
 
 # Quick Links to Track Course Notes
 
@@ -18,6 +18,18 @@ This document is available at:
 [Android](tracks/mobile-android.md)&nbsp;&nbsp;
 [Flutter](tracks/mobile-flutter.md)&nbsp;&nbsp;
 [Design](tracks/design-ui-ux.md)
+
+# Your Program Organizers
+
+| Name | Slack Username | Title |
+| --- | --- | --- |
+| Seyi Onifade | **@xyluz** | Educational Coordinator |
+| Mike Koss | **@Mike Koss** | Board Member<br>Head Cheerleader |
+| Adejuwon Isola-Osobu | **@Juwon O** | Program Director |
+<br>
+
+*Feel free to message us on Slack if you need assistance during the program
+outside of help from your instructors.  You can also email us at info@reskillamericans.org.*
 
 # Program Status
 
@@ -50,8 +62,7 @@ months.  During that time we will be:
 - 3 months: "Virtual" Internship
 
 We officially starting the program on March 15th, with a final registration
-deadline of March 7, 2021.  We published a [Syllabus Summary](syllabus-summary.pdf) in
-early March.
+deadline of March 7, 2021.  We published a [Syllabus Summary](syllabus-summary.pdf) in early March.
 
 # Communication and Sites
 
@@ -60,6 +71,9 @@ early March.
 All participants have been invited to join our slack channel:
 
 > [ReskillAmericans Slack Channel](https://reskillamericans.slack.com)
+
+Participation in the program is conditional on your adherance to our
+[Code of Conduct](code-of-conduct.md).
 
 We have set up the following channels on Slack:
 
