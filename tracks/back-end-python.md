@@ -35,6 +35,24 @@ Your instructors and mentors in this course include:
 You are welcome to message them directly, but please post questions that would
 benefit all of your peers at **#track-backend-python**.
 
+## Week 4 Courses (April 4 - 10)
+
+- **Python: Loops and Functions**:<br>
+  - [Python 17 For Loop - 4 minutes](https://youtu.be/P9sIg93Boso) -
+    followed by a 5 question test.
+  - [Python 18 While Loop - 3 minutes](https://youtu.be/J8dkgM8Mck0) -
+    followed by a 5 question test.
+  - [Python 19 Functions - 6 minutes](https://youtu.be/TZ4dJU9_RqI) -
+    followed by a 5 question test.
+  - [Python 20 Dictionary - 15 minutes](https://youtu.be/ZYyH9aybMbA) -
+    followed by a 5 question test.
+  - [Python 21 Basic Auth - 12 minutes](https://youtu.be/-GjicZsNens)
+  - [Python 22 Basic Auth Account Number Generation and Registration - 11 minutes](https://youtu.be/iScxfrYVUSQ)
+  - [Python 23 Basic Auth, Login, Logout and Bank Operations - 15 minutes](https://youtu.be/Rrqpiuvw5Nk)
+
+  **Assignment**: Improve the ATM mock-up from the previous course and
+  submit as a github repo.
+
 ## Week 3 Courses (March 28 - April 3)
 
 - **Python Syntax and Automated Teller Machine mock project**<br>

@@ -35,6 +35,23 @@ Your instructors and mentors in this course include:
 You are welcome to message them directly, but please post questions that would
 benefit all of your peers at **#track-design**.
 
+## Week 4 Courses (April 4 - 10)
+
+- **The Design Thinking Process**
+  - **Live Session - Design Process and User Research** - Sunday, April 4th as 12pm PDT (3pm EDT).
+
+  **Assignment**: After completing the Design Process session, write an inteview script for a clothing donation platform/site.
+
+  - **Live Session - Empathy Process** - Tuesday, April 6 12pm PDT (3pm EDT).
+
+  **Assignment**: Interview 5 potential users using your previously written script (use video interviews, please and/or social distancing).
+
+  - **Live Session - Define stage** - April 8, 12pm PDT (3pm EDT).
+
+  **Assignment**: Develop a combined Empathy Map on a Micro canvas
+  and identify pain points.  Upload your shared Slide deck (due Saturday, April 10).
+
+
 ## Week 3 Courses (March 28 - April 3)
 
 - **Elements and Principles of Good Design**<br>

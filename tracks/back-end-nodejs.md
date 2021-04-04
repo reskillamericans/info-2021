@@ -43,6 +43,25 @@ Your instructors and mentors in this course include:
 You are welcome to message them directly, but please post questions that would
 benefit all of your peers at **#track-backend-javascript**.
 
+## Week 4 Courses (April 4 - 10)
+
+- **JavaScript Week 3**:<br>
+  Arrow functions are described.  Introduction to asychronous programming.
+
+  **Assignments**:<br>
+  Update valueChecker using arrow function syntax.<br>
+  Rewrite sumCalculator using arrow function syntax.
+
+  - [Note Taker App - The App Interface - 2 minutes](https://youtu.be/7XX-XiEMS2E)
+  - [Note Taker Code Explanation - 3 minutes](https://youtu.be/m3cHV7ye-f0)
+
+  **Assignment**: Complete the Note Taker App.  Fork
+  [starter code](https://github.com/IDTitanium/notesApp) and complete in your
+  own github repository.  Submit link to your repository when finished.  Due
+  Saturday, April 10.
+
+  **A 5 question test is here.**
+
 ## Week 3 Courses (March 28 - April 3)
 
 - **Introduction to Cloud Computing**<br>
