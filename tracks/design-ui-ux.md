@@ -38,7 +38,7 @@ benefit all of your peers at **#track-design**.
 ## Week 4 Courses (April 4 - 10)
 
 - **The Design Thinking Process**
-  - **Live Session - Design Process and User Research** - Sunday, April 4th as 12pm PDT (3pm EDT).
+  - **Live Session - Design Process and User Research** - Monday, April 5th 12pm PDT (3pm EDT).
 
   **Assignment**: After completing the Design Process session, write an inteview script for a clothing donation platform/site.
 
