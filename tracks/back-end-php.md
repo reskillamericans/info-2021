@@ -48,24 +48,24 @@ benefit all of your peers at **#track-backend-php**.
     a 5 question test.
   - [PHP Functions Tutorial - 16 minutes](https://youtu.be/HvxQww-7NGA) - followed by
     a 5 question test.
-- [Sessions and Cookies - 7 minutes](https://youtu.be/jort8_4U-88)
-- [PHP Sessions Tutorial - 5 minutes](https://youtu.be/58_UCvQBz4Y)
-- [PHP Session - 19 minutes](https://youtu.be/5NdLgQQLPk4) - followed by
-  a 5 question test.
+  - [Sessions and Cookies - 7 minutes](https://youtu.be/jort8_4U-88)
+  - [PHP Sessions Tutorial - 5 minutes](https://youtu.be/58_UCvQBz4Y)
+  - [PHP Session - 19 minutes](https://youtu.be/5NdLgQQLPk4) - followed by
+    a 5 question test.
 
-**References**:
+  **References**:
 
-The last slide in the course contains a list of useful PHP references.
+  The last slide in the course contains a list of useful PHP references.
 
-**Assignment**:
+  **Assignment**:
 
-Create a authentication page in PHP to register, sign-in, and
-sign-out the user (credentials stored in a file).
+  Create a authentication page in PHP to register, sign-in, and
+  sign-out the user (credentials stored in a file).
 
-You will upload your application to a github repository and submit
-it's URL as your answer.
+  You will upload your application to a github repository and submit
+  it's URL as your answer.
 
-*Note: Some additional online research is to be expected to complete this task.*
+  *Note: Some additional online research is to be expected to complete this task.*
 
 ## Week 3 Courses (March 28 - April 3)
 
