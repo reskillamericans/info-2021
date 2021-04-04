@@ -49,6 +49,7 @@ benefit all of your peers at **#track-mobile-flutter**.
   **References**:
 
   [DartPad](https://dartpad.dartlang.org/) - On online code editor for Dart code, much like [CodePen](https://codepen.io) for JavaScript.
+  
   [Dart Language Tour](https://dart.dev/guides/language/language-tour) - If you'd like to read ahead about the Dart Language, this extensive guide provides details on all the language features.
 
 - **Introduction to Cloud Computing**<br>
