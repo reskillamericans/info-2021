@@ -1,6 +1,6 @@
 # Design UI/UX Track
 
-*Updated April 1, 2021*
+*Updated Monday, April 5, 2021*
 
 This document is available at:
 
