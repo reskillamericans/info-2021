@@ -1,6 +1,6 @@
 # Reskill Americans 2021 Program Info/Course Notes
 
-*Updated April 1, 2021*
+*Updated Monday, April 5, 2021*
 
 This document is available at:
 
@@ -53,15 +53,16 @@ outside of help from your instructors.  You can also email us at info@reskillame
 
 # Program Status
 
-We are entering week 3 of the program this week.  If you are keeping up
-you should:
+If you want to reference past-completed courses, they may look like they disappeared on your LMS home page.  Try clicking the Completed Courses button to see if they are there.
+
+We are entering week 4 of the program this week.  If you are keeping up you should:
 
 - Be logging into [Slack](reskillamericans.slack.com) to check **#announcements**.
 - Login to the [LMS](reskillamericans.us) (Learning Management System)
 - Selected a Track to focus on and entered the code from **#announcements** to join the LMS group
   for that track.
-- Completed your first week's assignments.  If you are not done, you will have until Saturday,
-  April 3rd, to complete them.
+- Completed your 3rd week's assignments.  If you are not done, you will have until Saturday,
+  April 10th, to complete them.
 
 **NOTICE**: It's very important that you **complete the Courses assigned to you on time**.  New
 courses are usually added to your LMS each Saturday, and you should complete them by the following Saturday.
@@ -194,14 +195,14 @@ We will try to repspond to you within 24 hours.
 
 | Week | Start Date | Description |
 | --- | --- | --- |
+| Week #4 | April 4 - 10| Third week of courses. |
 | Week #3 | March 29 - April 3| Second week of courses.  **The first week's assignments need to be completed to remain enrolled in the program**. |
 | Week #2 | March 21 - 27 | First week of courses on LMS.  Choice of Track made. |
 | Week #1 | March 15 - 20 | Orientation.  Explaination of tools and tracks. |
 
 # Tracks
 
-Our program has 4 major tracks (and a couple of sub-tracks).  Click the links below to see
-track-specific course information.
+Our program has 6 distinct tracks.  Click the links below to see track-specific course information.
 
 >- [Front-End Track](tracks/front-end.md)
 >- [Back-End (JavaScript) Track](tracks/back-end-nodejs.md)
@@ -211,13 +212,11 @@ track-specific course information.
 >- [Mobile (Flutter) Track](tracks/mobile-flutter.md)
 >- [Design UI/UX Track](tracks/design-ui-ux.md)
 
-Look for the "group code" for your chosen track in **#annoucements** on Slack.  Enter
-into the *Join Group* dialog on [reskillamericans.us](https://reskillamericans.us) in
-order to enroll in that Track.
+Look for the "group code" for your chosen track in **#annoucements** on Slack.  Enter into the *Join Group* dialog on [reskillamericans.us](https://reskillamericans.us) in order to enroll in that Track.
 
 ## All Programming Tracks (not the Design Track)
 
-There are a few  Courses that have been assigned to all the programming tacks.  They are listed in in reverse chronological order.
+There are a few General Courses that have been assigned to all the programming tacks.  They are listed in in reverse chronological order.
 
 ### Week 3 Courses (March 28 - April 3)
 

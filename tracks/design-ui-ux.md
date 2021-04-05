@@ -32,21 +32,22 @@ Your instructors and mentors in this course include:
 </tbody>
 </table>
 
-You are welcome to message them directly, but please post questions that would
-benefit all of your peers at **#track-design**.
+You are welcome to message them directly, but please post questions that would benefit all of your peers at **#track-design**.
+
+*The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
 
 ## Week 4 Courses (April 4 - 10)
 
 - **The Design Thinking Process**
-  - **Live Session - Design Process and User Research** - Monday, April 5th 12pm PDT (3pm EDT).
+  - **Live Session - Design Process and User Research** - Monday, April 5th 1pm PDT (4pm EDT).
 
   **Assignment**: After completing the Design Process session, write an inteview script for a clothing donation platform/site.
 
-  - **Live Session - Empathy Process** - Tuesday, April 6 12pm PDT (3pm EDT).
+  - **Live Session - Empathy Process** - Tuesday, April 6 1pm PDT (4pm EDT).
 
   **Assignment**: Interview 5 potential users using your previously written script (use video interviews, please and/or social distancing).
 
-  - **Live Session - Define stage** - April 8, 12pm PDT (3pm EDT).
+  - **Live Session - Define stage** - April 8, 1pm PDT (4pm EDT).
 
   **Assignment**: Develop a combined Empathy Map on a Micro canvas
   and identify pain points.  Upload your shared Slide deck (due Saturday, April 10).
@@ -95,15 +96,3 @@ This week participants begin working with the [Learning Managment System (LMS)](
   
 
   **Assignment**: Design a simple self-profile card.
-
-- **Software Development Life Cycle**. *Video and short quiz explaining how software teams organize their work.*
-
-  ***Supplemental Content***<br>
-  Some people have trouble with the English accent of the video on the LMS.  This video has pretty much the same content and you may find it easier to watch.<br>
-  [Software Development Life Cycle (SDLC) - 9 minutes](https://youtu.be/i-QyW8D3ei0)
-- **Introduction to Programming**.  *Explains computer programming essentials.*
-  - Introduction to Programming Section<br>
-    [video](https://youtu.be/zOjov-2OZ0E), [resource](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/1-intro-to-programming-languages), [article](https://www.freecodecamp.org/news/beginners-roadmap-web-development/).
-  - Introduction to Git (Source Control System) Section<br>
-    [resource](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/2-github-basics)<br>
-  Assignment: Create a personal [GitHub](https://github.com/) account and profile.

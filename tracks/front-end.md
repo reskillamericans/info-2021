@@ -1,6 +1,6 @@
 # Front-End Track
 
-*Updated April 1, 2021*
+*Updated Monday, April 5, 2021*
 
 This document is available at:
 
@@ -52,30 +52,44 @@ Your instructors and mentors in this course include:
 </tbody>
 </table>
 
-You are welcome to message them directly, but please post questions that would
-benefit all of your peers at **#track-frontend**.
+You are welcome to message them directly, but please post questions that would benefit all of your peers at **#track-frontend**.
+
+*The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
+
+## Week 4 Courses (April 4 - 10)
+
+- **HTML & CSS - Week 4**
+  In our last HTML & CSS course, we started with the basics of HTML and CSS, and practiced creating a simple webpage.
+
+  This week, we would be going deeper into Semantic Markup and Accessibility in HTML, as well as studying CSS Layouts, Cross-browser compatibility and CSS selectors.
+
+  **A 7 question test is here.**
+
+  - [Learn CSS Position in 9 minutes](https://youtu.be/jx5jmI0UlXU)
+  - [Intro to CSS Floats and Clear - 11 minutes](https://youtu.be/-qdr9D9VZiM)
+  - [How to Create a Layout with HTML/CSS using Floats - 12 minutes](https://youtu.be/JjsQWLwTU_8)
+  - [CSS Grid Tutorial - 43 minutes](https://youtu.be/RhUuMl3R1PE)
+  - [The Ultimage CSS3 Flexbox Tutorial - 1 hour](https://youtu.be/qZv-rNx0jEA)
+
+  **A 5 questions test is here.**
+
+  **Assignments:**
+  
+  1. Using Flexbox and Grid, implement a the pictured layout.  You can use Google Drive to file submission (or Github if you prefer).
+  2. Using Flexbox and Grid, implement a user profile card.
+  3. Using Flexbox and Grid, implement a product card.
+
+  ***Suplemental References***
+
+  - [Floats, Flexbox, Grid? - The progression of CSS Layouts - 30 minutes](https://www.youtube.com/watch?v=R7gqJkdc5dM) - this video explains the HISTORY of how CSS evolved to enable page layouts using the different features, and why.  **Not required**, but will give you some context for why there are different ways to achieve the same thing.
 
 ## Week 3 Courses (March 28 - April 3)
 
 *Note from Mike: Please do be sure to give enough attention to last week's HTML and CSS Introduction.  It is a **core** part of your understanding.  I recommend completing that before tackling Git or JavaScript this week - it's really the most important foundation for your training.  The Google Home page assignment from that course will be due this week.*
 
-- **Introduction to Cloud Computing**<br>
-  *Note that the test may require doing some independent research
-  to answer all the questions.  Feel free to use Google to help.*
 - **Introduction to JavaScript Syntax**<br>
   This week's course explains some of the basics of JavaScript.  There are
   two in-line tests, and two assesments to complete at the end.
-- **Basic Git for complete beginners.**<br>
-  Explains the Git version control system and Github (in more depth
-  than last week's Introduction to Programming course).
-  - [Git 01 - Introduction - 11 minutes](https://youtu.be/dI_CUlVKrFw)
-  - [Git 02 - Pushing to GitHub - 16 minutes](https://youtu.be/0FaJF4t5Kfo)
-  - [Git 03 - Cloning and Pushing to GitHub - 15 minutes](https://youtu.be/2chNGl5RGy4)
-  - [Git 04 - GitHub Desktop - 8 minutes](https://youtu.be/YUkoy0PlTFQ) - *a graphical user interface option to the command line git.*
-
-  **Assignment**: Create a github repo the same name as your github username (this will later be your online portfolio).
-- *Note the Google Home page assignment from last week is due this
-   week if you've not yet finished it.*
 
   ***Supplemental Content***
 
@@ -116,15 +130,5 @@ This week participants begin working with the [Learning Managment System (LMS)](
   - [HTML and CSS Video Course - 1.5 hours](https://youtu.be/kLO4X_3VYdg)<br>
   
   **Assignment**: Recreate the Google Home page (visual look). **DEADLINE EXTENDED** - since this course was not released until mid-week, the deadline for completion will be next week.
-- **Software Development Life Cycle**. *Video and short quiz explaining how software teams organize their work.*
 
-  ***Supplemental Content***<br>
-  Some people have trouble with the English accent of the video on the LMS.  This video has pretty much the same content and you may find it easier to watch.<br>
-  [Software Development Life Cycle (SDLC) - 9 minutes](https://youtu.be/i-QyW8D3ei0)
 - **Setup for JavaScript** This course simply asks you to install [Node.js](https://nodejs.org/) on your computer and report which version you have running.
-- **Introduction to Programming**.  *Explains computer programming essentials.*
-  - Introduction to Programming Section<br>
-    [video](https://youtu.be/zOjov-2OZ0E), [resource](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/1-intro-to-programming-languages), [article](https://www.freecodecamp.org/news/beginners-roadmap-web-development/).
-  - Introduction to Git (Source Control System) Section<br>
-    [resource](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/2-github-basics)<br>
-  Assignment: Create a personal [GitHub](https://github.com/) account and profile.
