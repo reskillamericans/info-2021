@@ -1,6 +1,6 @@
 # Mobile Track - Flutter (Dart)
 
-*Updated April 1, 2021*
+*Updated Monday, April 5, 2021*
 
 This document is available at:
 
@@ -32,8 +32,20 @@ Your instructors and mentors in this course include:
 </tbody>
 </table>
 
-You are welcome to message them directly, but please post questions that would
-benefit all of your peers at **#track-mobile-flutter**.
+You are welcome to message them directly, but please post questions that would benefit all of your peers at **#track-mobile-flutter**.
+
+*The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
+
+## Week 4 Courses (April 4 - 10)
+
+*This week's regular courses are delayed.  In the meantime:*
+
+- ***Supplemental References***
+
+  - [First-Time Dart](https://reskillamericans.github.io/first-time-dart/) - Mike started recording some interactive tutorials for first-time programmers
+  learing Dart.
+  - [Dart Programming in 4 Hours 🎥](https://youtu.be/5xlVP04905w) - Mike Dane created this comprehensive tutorial in February.  It's long, but he's usually
+  pretty good teacher, explaining things thoroughly along the way.
 
 ## Week 3 Courses (March 28 - April 3)
 
