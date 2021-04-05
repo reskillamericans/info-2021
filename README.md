@@ -216,7 +216,12 @@ Look for the "group code" for your chosen track in **#annoucements** on Slack.  
 
 ## All Programming Tracks (not the Design Track)
 
-There are a few General Courses that have been assigned to all the programming tacks.  They are listed in in reverse chronological order.
+There are a few General Courses that have been assigned to all the programming tracks.  They are listed in in reverse chronological order.
+
+### Week 4 Courses (April 4 - 10)
+
+*There are currently no General courses assigned this week.*  See your individual track
+course notes to see what has been assigned.
 
 ### Week 3 Courses (March 28 - April 3)
 
