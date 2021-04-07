@@ -39,11 +39,11 @@ You are welcome to message them directly, but please post questions that would b
 ## Week 4 Courses (April 4 - 10)
 
 - **The Design Thinking Process**
-  - **Live Session - Design Process and User Research** - Monday, April 5th 1pm PDT (4pm EDT).
+  - **Live Session - [Design Process and User Research - 32 minutes](https://drive.google.com/file/d/1SKzrJMjPUPyfbH_PsK-Ohy0_meRRNkfp/view)** - Monday, April 5th 1pm PDT (4pm EDT).
 
   **Assignment**: After completing the Design Process session, write an inteview script for a clothing donation platform/site.
 
-  - **Live Session - Empathy Process** - Tuesday, April 6 1pm PDT (4pm EDT).
+  - **[Live Session - Empathy Process](https://www.youtube.com/watch?v=eM9lVShN6VI)** - Tuesday, April 6 1pm PDT (4pm EDT).
 
   **Assignment**: Interview 5 potential users using your previously written script (use video interviews, please and/or social distancing).
 
