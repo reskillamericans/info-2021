@@ -43,7 +43,7 @@ You are welcome to message them directly, but please post questions that would b
 
   **Assignment**: After completing the Design Process session, write an inteview script for a clothing donation platform/site.
 
-  - **[Live Session - Empathy Process](https://www.youtube.com/watch?v=eM9lVShN6VI)** - Tuesday, April 6 1pm PDT (4pm EDT).
+  - **[Live Session - Empathy Process - 50 minutes](https://www.youtube.com/watch?v=eM9lVShN6VI)** - Tuesday, April 6 1pm PDT (4pm EDT).
 
   **Assignment**: Interview 5 potential users using your previously written script (use video interviews, please and/or social distancing).
 
