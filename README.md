@@ -87,13 +87,26 @@ deadline of March 7, 2021.  We published a [Syllabus Summary](syllabus-summary.p
 
 # Communication and Sites
 
+## How to Get the Quickest Response
+
+We are working hard to make sure we are as responsive as possible to everyone's needs to get questions answered, and get help.  There are different expectations about how responsive we will be able to be, depending on where you ask the question.  This is our SLA (Service Level Agreement) for these different communication channels.
+
+- **Post to a channel called track-X**.  This is the BEST way to get a quick response.  The reason being that your peers may be able to help you as well as our mentors and instructors.  You can expect a response is under **1 hour** by a peer, and under **5 hours** by a mentor. 
+- **Post to the #mentor-help channel**.  All mentors monitor this channel for general questions.  Please only use this if your questions isn't specific to a track-X channel that has been setup.  (e.g., please ask questions about CSS on #track-frontend-html-css instead of #mentor-help).  You can expect a response in under **5 hours**.
+- If a **specific mentor** is helping you, you can continue to send them a dm (private message).  But note that we do have some time-zone variance - so they may be sleeping when you are awake.  Expect a response to dm's in under **24 hours**.  Similarly, you can use the messaging system on the LMS to communicate with your course instructors - be sure to select the "(Only Instructor)" option for the recipient.  *This list of mentors and instructors is in the track-specific course notes linked from https://reskillamericans.github.io/info-2021/*
+- **Post to #help-desk** if you have a problem with you login to the LMS, or some other administrative system giving you problems.  Please don't post questions about the courses here as mentors may not see it.  You can expect a response in **24 hours**.
+- If you have not gotten a response within the above time frames, please **escalate to @xyluz**.  Especially for issues related to instructors or mentors not being reachable.  It is possible that your message just got lost in the shuffle and needs to be prioritized.  You can expect a response in **24 hours**.
+- You can **escalate messages to @Juwon O or @Mike Koss if** all the above have not been able to address your problem.    If Slack is not available, or you prefer you can also send email to info@reskillamericans.org.  We will respond within **24 hours**.
+
+Thanks for your help in helping us optimize your experience and get the quickest response possible.
+
 ## Slack
 
 All participants have been invited to join our slack channel:
 
 > [ReskillAmericans Slack Channel](https://reskillamericans.slack.com)
 
-Participation in the program is conditional on your adherance to our
+Participation in the program is conditional on your adherence to our
 [Code of Conduct](code-of-conduct.md).
 
 We have set up the following channels on Slack:
