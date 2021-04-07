@@ -38,12 +38,31 @@ You are welcome to message them directly, but please post questions that would b
 
 ## Week 4 Courses (April 4 - 10)
 
-*This week's regular courses are delayed.  In the meantime:*
+*This week's regular courses were released on Wednesday, April 7.  Any assignments will not be due for 1 week from your receiving them.*
+
+- **Dart Functions**<br>
+  Explains the role of functions, argument passing, and return values in Dart programs.
+
+  - [Introduction to Dart - Part 2: Functions - 14 minutes](https://youtu.be/jA5kPLZGjmE) - followed by a 4 question test.
+  - Explanation of arguments and another 4 question test.
+
+  **Assignment:** Upload a screenshot of the 4 requested functions in your editor and the console output.<br>
+  *Note: You can use [DartPad](https://dartpad.dev) or your local VSCode editor to do this.*
+
+- **Dart: Object Oriented Programming**<br>
+Object Oriented programs use features of the language to help organize code into discrete units (called Objects - or Classes).
+This course will explain the features of Object Oriented programming: *Abstraction*, *Encapsulation*, *Inheritance*, and *Polymorphism*.
+
+  - [Object Oriented Programming in Dart and Flutter - 15 minutes](https://youtu.be/apIaNRp7_rs)
+  - [Introduction to Dart - Part 3: Classes - 31 minutes](https://youtu.be/9Qi-mNYxRQI) - followed by a 4 question test.
+  - [Dart Inheritance- 8 minutes](https://youtu.be/IPoHzLZZu08)
+
+  **Assignment:** Build a *Class* for a bank account.  Implement *methods* to check the balance, make a deposit, and make a withdrawal.  Use `print` function to display status messages on the console as described in the assignment.  Your example should include some test code run from the `main` functions demonstrating each of the required features.
 
 - ***Supplemental References***
-
-  - [First-Time Dart](https://reskillamericans.github.io/first-time-dart/) - Mike started recording some interactive tutorials for first-time programmers
+  - [First-Time Dart](https://reskillamericans.github.io/   first-time-dart/) - Mike started recording some interactive tutorials for first-time programmers
   learing Dart.
+
   - [Dart Programming in 4 Hours 🎥](https://youtu.be/5xlVP04905w) - Mike Dane created this comprehensive tutorial in February.  It's long, but he's usually
   pretty good teacher, explaining things thoroughly along the way.
 
