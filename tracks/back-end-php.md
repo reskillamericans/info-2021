@@ -108,3 +108,13 @@ This week participants begin working with the [Learning Managment System (LMS)](
   **Assignments**:
   - Upload your hello world PHP file and it's output.
   - Create a 5-function calculator two inputs - upload code and output in browser.
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E0FNX7D6ZT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E0FNX7D6ZT');
+</script>

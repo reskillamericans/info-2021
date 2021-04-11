@@ -74,3 +74,13 @@ You are welcome to message them directly, but please post questions that would b
 This week participants begin working with the [Learning Managment System (LMS)](https://reskillamericans.us).
 
 - **Setup for JavaScript** This course simply asks you to install [Node.js](https://nodejs.org/) on your computer and report which version you have running.
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E0FNX7D6ZT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E0FNX7D6ZT');
+</script>

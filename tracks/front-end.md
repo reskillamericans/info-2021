@@ -132,3 +132,13 @@ This week participants begin working with the [Learning Managment System (LMS)](
   **Assignment**: Recreate the Google Home page (visual look). **DEADLINE EXTENDED** - since this course was not released until mid-week, the deadline for completion will be next week.
 
 - **Setup for JavaScript** This course simply asks you to install [Node.js](https://nodejs.org/) on your computer and report which version you have running.
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E0FNX7D6ZT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E0FNX7D6ZT');
+</script>

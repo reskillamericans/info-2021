@@ -101,3 +101,13 @@ This week participants begin working with the [Learning Managment System (LMS)](
     [resource](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/2-github-basics)<br>
 
   **Assignment**: Create a personal [GitHub](https://github.com/) account and profile.
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E0FNX7D6ZT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E0FNX7D6ZT');
+</script>

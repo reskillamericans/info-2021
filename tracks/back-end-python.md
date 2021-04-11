@@ -88,3 +88,13 @@ This week participants begin working with the [Learning Managment System (LMS)](
   - [Python 02 - Installing Python for Mac - 2 minutes](https://youtu.be/cMYw423jOO4)
   - [Python 03 - Coding Environment - 4 minutes](https://youtu.be/b6bAtj-Z5K4)
   - [Python 04 - Hello, World! - 3 minutes](https://youtu.be/BeIB2rE5-mo)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E0FNX7D6ZT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E0FNX7D6ZT');
+</script>

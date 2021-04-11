@@ -288,3 +288,14 @@ The first week of class was devoted to orientation and describing the content of
 - [Orientation Design (UI/UX) and Backend Tracks](https://youtu.be/0pmyohlou1A)
 - [Orientation: NodeJS, Front-End, and Mobile Tracks](https://youtu.be/E2J1rfd49ZI)
 - [Orientation: Introduction to the LMS](https://youtu.be/gKWm3rfPJh4)
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E0FNX7D6ZT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E0FNX7D6ZT');
+</script>
