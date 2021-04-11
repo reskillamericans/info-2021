@@ -1,6 +1,6 @@
 # Mobile Track - Android (Java/Kotlin)
 
-*Updated April 1, 2021*
+*Updated Sunday, April 11, 2021*
 
 This document is available at:
 
@@ -42,6 +42,19 @@ Your instructors and mentors in this course include:
 
 You are welcome to message them directly, but please post questions that would
 benefit all of your peers at **#track-mobile-android**.
+
+## Week 4 Courses (April 4  - April 10)
+
+- **Conditionals and More in the Java Programming Language** - *released Thursday, April 8*<br>
+  Covering conditionals, loops, functions and Objects.
+
+  - [Java Conditionals - 14 minutes](https://youtu.be/gXp1BErNb_k) - followed by a 3 question test.
+  - [Java for-Loops - 7 minutes](https://youtu.be/jT8clEp5UXU)
+  - [Java while-Loops](https://youtu.be/I8CgpWWdTDo) - followed by a 4 question test.
+  - [Java Functions - 11 minutes](https://youtu.be/oEGUoEhMxFg) - followed by a 4 question test.
+  - [Java Classes and Objects - 15 minutes](https://youtu.be/2giTHybHDbk) - followed by a 4 question test.
+
+  **Assignment:** Write two functions and submit via GitHub repository link.  One tests a number for *even*, *odd*, or *prime*.  The other write a simple `Car` class with a `move` method *- due Thursday, April 15*.
 
 ## Week 3 Courses (March 28 - April 3)
 

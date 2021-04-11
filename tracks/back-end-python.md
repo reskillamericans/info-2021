@@ -1,6 +1,6 @@
 # Back-End Python Track
 
-*Updated Monday, April 5, 2021*
+*Updated Sunday, April 11, 2021*
 
 This document is available at:
 
@@ -61,6 +61,13 @@ You are welcome to message them directly, but please post questions that would b
 
   **Assignment**: Improve the ATM mock-up from the previous course and
   submit as a github repo.
+
+- **HTTP Secure Socket Layer (SSL and CORS)** - *due date April 18th.*
+
+  - [Course Intro Video - 3 minutes](https://youtu.be/R-9uYzstjOE)
+  - **A 10 question quiz is here.**
+  - Content on SSL - followed by **a 5 question test.**
+  - Content on CORS - followed by **a 5 question test.**
 
 ## Week 3 Courses (March 28 - April 3)
 

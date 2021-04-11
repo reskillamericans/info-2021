@@ -1,6 +1,6 @@
 # Back-End PHP Track
 
-*Updated Monday, April 5, 2021*
+*Updated Sunday, April 11, 2021*
 
 This document is available at:
 
@@ -14,31 +14,63 @@ This document is available at:
 Your instructors and mentors in this course include:
 
 <table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Slack Username</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Alexander Garuba</td>
-<td><strong>@professor</strong></td>
-</tr>
-<tr>
-<td>Veronica Emiola</td>
-<td><strong>@Veronica</strong></td>
-</tr>
-<tr>
-<td>Njeakor Paul</td>
-<td><strong>@rapulu</strong></td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Slack Username</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Alexander Garuba</td>
+      <td><strong>@professor</strong></td>
+    </tr>
+    <tr>
+      <td>Veronica Emiola</td>
+      <td><strong>@Veronica</strong></td>
+    </tr>
+    <tr>
+      <td>Njeakor Paul</td>
+      <td><strong>@rapulu</strong></td>
+    </tr>
+  </tbody>
 </table>
 
 You are welcome to message them directly, but please post questions that would benefit all of your peers at **#track-backend-php**.
 
 *The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
+
+## Week 5 Courses (April 11 - April 17)
+
+*Note: Last week's SSL/CORS course will also be due at the end of this week.*
+
+- **PHP Week 5**<br>
+  Object Oriented Programming and Model-View-Controller (MVC), use
+  of databases and queries.
+
+  - [Intro to Object Oriented Programming - 9 minutes](https://youtu.be/Anz0ArcQ5kI) - followed by a 3 question test.
+  - [Model View Controller (MVC) Explained - 12 minutes](https://youtu.be/3OKOe7CraGY) - followed by a 3 question test.
+  - [Database Tutorial for Beginners - 6 minutes](https://youtu.be/wR0jg0eQsZA) - followed by a 2 question test.
+
+  **Assignment:** Create an authentication system using OOP with MVC and MySQL Database - this week create github repo, database and business logic (full project to be graded next week).
+
+  **References:**
+  
+  OOP
+
+    - [PHP Object Oriented Programming Concept Tutorial](https://www.guru99.com/object-oriented-programming.html)
+    - [PHP Classes and Objects Tutorial](https://www.tutorialrepublic.com/php-tutorial/php-classes-and-objects.php)
+    - [PHP OOP CRUD Tutorial](https://codeofaninja.com/2014/06/php-object-oriented-crud-example-oop.html)
+    - [Object Oriented PHP for Beginners](https://www.killerphp.com/tutorials/php-objects-page-1/)
+
+  MVC
+
+    - [Write your own MVC from Scratch in PHP](https://chaitya62.github.io/2018/04/29/Writing-your-own-MVC-from-Scratch-in-PHP.html)
+    - [How to start your own PHP MVC framework in 4 steps](https://lancecourse.com/howto/how-to-start-your-own-php-mvc-framework-in-4-steps)
+    - [Create your own MVC framework in PHP](https://medium.com/@noufel.gouirhate/create-your-own-mvc-framework-in-php-af7bd1f0ca19)
+
+
+
 
 ## Week 4 Courses (April 4 - 10)
 
@@ -67,6 +99,13 @@ You are welcome to message them directly, but please post questions that would b
   it's URL as your answer.
 
   *Note: Some additional online research is to be expected to complete this task.*
+
+- **HTTP Secure Socket Layer (SSL and CORS)** - *due date April 18th.*
+
+  - [Course Intro Video - 3 minutes](https://youtu.be/R-9uYzstjOE)
+  - **A 10 question quiz is here.**
+  - Content on SSL - followed by **a 5 question test.**
+  - Content on CORS - followed by **a 5 question test.**
 
 ## Week 3 PHP Courses (March 28 - April 3)
 

@@ -1,6 +1,6 @@
 # Design UI/UX Track
 
-*Updated Monday, April 5, 2021*
+*Updated Sunday, April 11, 2021*
 
 This document is available at:
 
@@ -35,6 +35,18 @@ Your instructors and mentors in this course include:
 You are welcome to message them directly, but please post questions that would benefit all of your peers at **#track-design**.
 
 *The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
+
+## Week 5 Courses (April 11 - 17)
+
+- **The Design Thinking Process II**
+  Ideation, low-fidelity prototypes, brainstorming, journey maps and design sketches.
+
+  - [Creating thinking - how to get out of the box and generate ideas (TED) - 15 minutes](https://youtu.be/bEusrD8g-dM)
+  - [Mobile Application Desing - Paper Prototype - 1 minute](https://youtu.be/y20E3qBmHpg)
+
+  **Assignment 1:** List of ideas from pain points identified.  List of actors and ideas.  Priortization grid for each actor.  Submit as slide presentation.
+
+  **Assignment 2:** Feature list, user flow diagram, User journey map, and comprehensive sketch.  Submit as Google Slides.
 
 ## Week 4 Courses (April 4 - 10)
 
