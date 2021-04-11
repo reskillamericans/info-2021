@@ -14,22 +14,30 @@ This document is available at:
 Your instructors and mentors in this course include:
 
 <table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Slack Username</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Eniayomi</td>
-<td><strong>@eniayomi</strong></td>
-</tr>
-<tr>
-<td>Eniola Medunoye</td>
-<td><strong>@Enny</strong></td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Slack Username</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Eniayomi</td>
+      <td><strong>@eniayomi</strong></td>
+    </tr>
+    <tr>
+      <td>Eniola Medunoye</td>
+      <td><strong>@Enny</strong></td>
+    </tr>
+    <tr>
+      <td>Oreoluwa Lana</td>
+      <td>@Oreoluwa Lana</td>
+    </tr>
+    <tr>
+      <td>Oluwafemi Adenuga</td>
+      <td>@Femi</td>
+    </tr>
+  </tbody>
 </table>
 
 You are welcome to message them directly, but please post questions that would benefit all of your peers at **#track-backend-python**.

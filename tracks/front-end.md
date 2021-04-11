@@ -14,42 +14,54 @@ This document is available at:
 Your instructors and mentors in this course include:
 
 <table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Slack Username</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Jeremiah Iromaka</td>
-<td><strong>@jeremiahiro</strong></td>
-</tr>
-<tr>
-<td>Jeffrey Ogah</td>
-<td><strong>@Jeff</strong></td>
-</tr>
-<tr>
-<td>Okoro Alvin Uchenna</td>
-<td><strong>@Alvin</strong></td>
-</tr>
-<tr>
-<td>Goodnews Sandy</td>
-<td><strong>@Sandy</strong></td>
-</tr>
-<tr>
-<td>Jimi Adeboga</td>
-<td><strong>@Jimi</strong></td>
-</tr>
-<tr>
-<td>Duru-young Raymond</td>
-<td><strong>@ray</strong></td>
-</tr>
-<tr>
-<td>Idris Lawal</td>
-<td><strong>@Idris</strong></td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Slack Username</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sophia Ahuoyiza Abubakar</td>
+      <td>@Ahuoyiza</td>
+    </tr>
+    <tr>
+      <td>Ninyo Esther</td>
+      <td>@Ninyo</td>
+    </tr>
+    <tr>
+      <td>Patrick Odey</td>
+      <td>@Patrick Odey</td>
+    </tr>
+    <tr>
+      <td>Jeremiah Iromaka</td>
+      <td><strong>@jeremiahiro</strong></td>
+    </tr>
+    <tr>
+      <td>Jeffrey Ogah</td>
+      <td><strong>@Jeff</strong></td>
+    </tr>
+    <tr>
+      <td>Okoro Alvin Uchenna</td>
+      <td><strong>@Alvin</strong></td>
+    </tr>
+    <tr>
+      <td>Goodnews Sandy</td>
+      <td><strong>@Sandy</strong></td>
+    </tr>
+    <tr>
+      <td>Jimi Adeboga</td>
+      <td><strong>@Jimi</strong></td>
+    </tr>
+    <tr>
+      <td>Duru-young Raymond</td>
+      <td><strong>@ray</strong></td>
+    </tr>
+    <tr>
+      <td>Idris Lawal</td>
+      <td><strong>@Idris</strong></td>
+    </tr>
+  </tbody>
 </table>
 
 You are welcome to message them directly, but please post questions that would benefit all of your peers at **#track-frontend**.
