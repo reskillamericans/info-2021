@@ -1,6 +1,6 @@
 # Back-End Python Track
 
-*Updated Sunday, April 11, 2021*
+*Updated Sunday, April 11, 2021*.
 
 This document is available at:
 
