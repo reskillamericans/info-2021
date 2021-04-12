@@ -23,7 +23,7 @@ Your instructors and mentors in this course include:
   <tbody>
     <tr>
       <td>Jumoke</td>
-      <td>@Jumoke</td>
+      <td><strong>@Jumoke</strong></td>
     </tr>
     <tr>
       <td>Nonyelim, Abigail</td>

@@ -23,15 +23,15 @@ Your instructors and mentors in this course include:
   <tbody>
     <tr>
       <td>Sophia Ahuoyiza Abubakar</td>
-      <td>@Ahuoyiza</td>
+      <td><strong>@Ahuoyiza</strong></td>
     </tr>
     <tr>
       <td>Ninyo Esther</td>
-      <td>@Ninyo</td>
+      <td><strong>@Ninyo</strong></td>
     </tr>
     <tr>
       <td>Patrick Odey</td>
-      <td>@Patrick Odey</td>
+      <td><strong>@Patrick Odey</strong></td>
     </tr>
     <tr>
       <td>Jeremiah Iromaka</td>

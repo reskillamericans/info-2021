@@ -35,7 +35,7 @@ Your instructors and mentors in this course include:
     </tr>
     <tr>
       <td>Oluwafemi Adenuga</td>
-      <td>@Femi</td>
+      <td><strong>@Femi</strong></td>
     </tr>
   </tbody>
 </table>

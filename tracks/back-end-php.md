@@ -22,10 +22,6 @@ Your instructors and mentors in this course include:
   </thead>
   <tbody>
     <tr>
-      <td>Alexander Garuba</td>
-      <td><strong>@professor</strong></td>
-    </tr>
-    <tr>
       <td>Veronica Emiola</td>
       <td><strong>@Veronica</strong></td>
     </tr>

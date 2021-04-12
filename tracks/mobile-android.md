@@ -23,15 +23,11 @@ Your instructors and mentors in this course include:
   <tbody>
     <tr>
       <td>Loveth</td>
-      <td>@Loveth</td>
+      <td><strong>@Loveth</strong></td>
     </tr>
     <tr>
       <td>Nwanwobi, Samuel</td>
       <td><strong>@SammyBloom</strong></td>
-    </tr>
-    <tr>
-      <td>Abdulkarim Abdulrahman</td>
-      <td><strong>@abdul</strong></td>
     </tr>
     <tr>
       <td>Osemwingie Oshodin</td>

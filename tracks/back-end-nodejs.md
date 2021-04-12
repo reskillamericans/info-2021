@@ -23,7 +23,7 @@ Your instructors and mentors in this course include:
   <tbody>
     <tr>
       <td>Ogunjuyigbe Oluwaseyi</td>
-      <td>@seyiogunjuyigbe</td>
+      <td><strong>@seyiogunjuyigbe</strong></td>
     </tr>
     <tr>
       <td>Sydney Ekpo</td>
@@ -36,10 +36,6 @@ Your instructors and mentors in this course include:
     <tr>
       <td>Jeremiah Iromaka</td>
       <td><strong>@jeremiahiro</strong></td>
-    </tr>
-    <tr>
-      <td>Alexander Garuba</td>
-      <td><strong>@professor</strong></td>
     </tr>
   </tbody>
 </table>
