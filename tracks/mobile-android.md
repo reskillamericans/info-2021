@@ -1,6 +1,6 @@
 # Mobile Track - Android (Java/Kotlin)
 
-*Updated Sunday, April 11, 2021*
+*Updated Wednesday, April 14, 2021*
 
 This document is available at:
 
@@ -38,6 +38,45 @@ Your instructors and mentors in this course include:
 
 You are welcome to message them directly, but please post questions that would
 benefit all of your peers at **#track-mobile-android**.
+
+## Week 5 Courses (April 11 - 17)
+
+*This week's courses were released Tuesday, April 13. Any assignments will not be due for 1 week from your receiving them.*
+
+- **Kotlin Overview**<br>
+  Explanation of the primary language features of Kotlin.
+  
+  - [Kotlin Introduction - 3 minutes](https://youtu.be/bhF1JOb_55o)
+  - [Kotlin Basic Types - 16 minutes](https://youtu.be/SHFh2QsYiCE)
+  - [Kotlin Variables - 10 minutes](https://youtu.be/wZS3KZepB00)
+  - [Kotlin Conditionals - 6 minutes](https://youtu.be/HonePCrDkPE)
+  - [Kotlin Functions - 12 minutes](https://youtu.be/C6HB2AzCG7U)
+  - [Kotlin Loops - 5 minutes](https://youtu.be/S0RuesWFuJI)
+  - [Kotlin Classes - 25 minutes](https://youtu.be/cqmoU3sQCaI)
+
+  **Assignment**: Write a function that divides two numbers are writes all three numbers to the console.  Upload code and sample output.
+
+  **References**:
+
+    - [Koitlin Playground](https://play.kotlinlang.org/)
+
+- **Hello World Android Application in Kotlin**<br>
+  This course introduces the Adroid Studio IDE and walks through steps of building your first mobile app.
+
+  - [Android Studio Interface - 12 minutes](https://youtu.be/arUL0K4gX8A)
+  - [Android Studio Creating a Project - 6 minutes](https://youtu.be/YqTO_vcRtcg)
+  - [Linking Android Studio Projects to Version Control - 13 minutes](https://youtu.be/pQTUpwtGxS8)
+  - [Android Studio XML and Java & Kotlin Files - 7 minutes](https://youtu.be/iadlBd0-7XY)
+  - [Android Studio Views and View Groups - 7 minutes](https://youtu.be/pDvg_5UgdQI)
+  
+  **Assignment**: Create a hello world app with a button to increase a counter.  Submit your Github (Version Control System - VCS) link to your
+  project.
+
+  **References**:
+
+  - [Gradle](https://en.wikipedia.org/wiki/Gradle)
+  - [Android Studio Intro](https://developer.android.com/studio/intro)
+  - [Android Studio Site](https://developer.android.com/studio)
 
 ## Week 4 Courses (April 4  - April 10)
 

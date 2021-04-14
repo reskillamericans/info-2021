@@ -1,6 +1,6 @@
 # Front-End Track
 
-*Updated Monday, April 5, 2021*
+*Updated Wednesday, April 14, 2021*
 
 This document is available at:
 
@@ -67,6 +67,37 @@ Your instructors and mentors in this course include:
 You are welcome to message them directly, but please post questions that would benefit all of your peers at **#track-frontend**.
 
 *The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
+
+## Week 5 Courses (April 11 - 17)
+
+*This week's courses were released Tuesday, April 13. Any assignments will not be due for 1 week from your receiving them.*
+
+- **HTML & CSS - Week 5**<br>
+  This week covers forms, meta tags, tables, pseudo-selectors (CSS), and responsive design (changing the layout depending on screen size).  You
+  will use [GitHub Pages](https://pages.github.com/) to put your assignments
+  on the web.
+
+  - [Week 5 HTML / CSS Walkthrough - 2 minutes](https://youtu.be/WdmTA9y0hw8)
+  
+    **A 5 question test on meta tags.**
+
+    **A 6 question test on forms and input elements.**
+
+    **A 3 question test on tables.**
+
+    **A 4 question test on pseudo-selectors.**
+
+    **A 3 question test on responsive design.**
+
+  **Assignment 1**: Implement the given design for desktop and mobile sites.  Submit your work as a GitHub repository and served using GitHub Pages.
+
+  **Assignment 2**: Implement the given mobile form.  Submit via GitHub pages as well.
+
+  **There will be a live class on Thursday, April 15th 3pm PDT (6pm EDT) with @Jimi.**
+
+  **References:**
+
+  - [Frontend Mentor](https://frontendmentor.io/)
 
 ## Week 4 Courses (April 4 - 10)
 

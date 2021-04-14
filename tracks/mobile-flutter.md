@@ -1,6 +1,6 @@
 # Mobile Track - Flutter (Dart)
 
-*Updated Monday, April 5, 2021*
+*Updated Wednesday, April 14, 2021*
 
 This document is available at:
 
@@ -40,9 +40,22 @@ You are welcome to message them directly, but please post questions that would b
 
 *The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
 
+## Week 5 Courses (April 11 - 17)
+
+*This week's course was released Tuesday, April 13. Any assignments will not be due for 1 week from your receiving them.*
+
+- **Dart: OOP Part 2**<br>
+  More in-depth descriptions of *Abstraction*, *Encapsulation*, and *Polymorphism* and *Interfaces*.
+
+  **A 5 question test here.**
+
+  - [Mixins in Dart - 14 minutes](https://youtu.be/pJHTyhzt9JU)
+
+  **Assignment**: Create an interface describing an abstract class and implement a class using that interface.  Upload screenshot of code and output.
+
 ## Week 4 Courses (April 4 - 10)
 
-*This week's regular courses were released on Wednesday, April 7.  Any assignments will not be due for 1 week from your receiving them.*
+*This week's regular courses were released on Wednesday, April 7.  *
 
 - **Dart Functions**<br>
   Explains the role of functions, argument passing, and return values in Dart programs.
@@ -54,8 +67,9 @@ You are welcome to message them directly, but please post questions that would b
   *Note: You can use [DartPad](https://dartpad.dev) or your local VSCode editor to do this.*
 
 - **Dart: Object Oriented Programming**<br>
-Object Oriented programs use features of the language to help organize code into discrete units (called Objects - or Classes).
-This course will explain the features of Object Oriented programming: *Abstraction*, *Encapsulation*, *Inheritance*, and *Polymorphism*.
+   Object Oriented programs use features of the language to help organize code into discrete units (called Objects - or Classes).
+
+   This course will explain the features of Object Oriented programming: *Abstraction*, *Encapsulation*, *Inheritance*, and *Polymorphism*.
 
   - [Object Oriented Programming in Dart and Flutter - 15 minutes](https://youtu.be/apIaNRp7_rs)
   - [Introduction to Dart - Part 3: Classes - 31 minutes](https://youtu.be/9Qi-mNYxRQI) - followed by a 4 question test.
