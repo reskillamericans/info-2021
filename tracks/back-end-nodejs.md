@@ -1,6 +1,6 @@
 # Back-End JavaScript (Node.js) Track
 
-*Updated Monday, April 5, 2021*
+*Updated Sunday, April 18, 2021*
 
 This document is available at:
 
@@ -44,10 +44,47 @@ You are welcome to message them directly, but please post questions that would b
 
 *The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
 
+## Week 6 Courses (April 18 - 24)
+
+- **JavaScript Week 4**<br>
+  Introduction to JSON and Node Modules.
+
+  **A 5 question test on JSON.**
+
+  - [Walk through on starting a new node.js project - 14 minutes](https://youtu.be/xZ3ZyClLCew)
+  - [NodeJS: Reading and Writing to a JSON file - 14 minutes](https://youtu.be/gFfekhZ6PCM)
+  - [NodeJS: Creating a Server with Node (Part 1) - 9 minutes](https://youtu.be/U2YJueCA8Wg)
+  - [NodeJS: Creating a Server with Node (Part 2) - 7 minutes](https://youtu.be/g-AMdVk1Wt0)
+  - [NodeJS: Creating a Server with Node (Part 3) - 24 minutes](https://youtu.be/Xd0v-9gckPc)
+  - [NodeJS: Creating a Server with Node (Part 4) - 17 minutes](https://youtu.be/FRK9GIQ6fAE)
+  
+
+  **Assignment**: Clone the `notesApp` repo and get your own node server running.  Submit
+  your clone's GitHub link.
+
+- **Introduction to Databases**<br>
+  This course will introduce you to MySQL and Firebase as well as general database concepts.  You will install MySQL locally and learn the befits of using cloud-hosted
+  databases.
+  
+  - [Walk through Introduction to Databases - 21 minutes](https://youtu.be/T2gVuf72dvc)
+  
+  **A 10 question test is here.**
+
+  **Assignment**: Using MySQL, create an employee database with the given data and perform the requested quiries.  Submit a screen shot.
+
+## Week 5 Courses (April 11 - 17)
+
+- **HTTP Secure Socket Layer (SSL and CORS)**
+
+  - [Course Intro Video - 3 minutes](https://youtu.be/R-9uYzstjOE)
+  - **A 10 question quiz is here.**
+  - Content on SSL - followed by **a 5 question test.**
+  - Content on CORS - followed by **a 5 question test.**
+
 ## Week 4 Courses (April 4 - 10)
 
 - **JavaScript Week 3**:<br>
-  Arrow functions are described.  Introduction to asychronous programming.
+  Arrow functions are described.  Introduction to asynchronous programming.
 
   **Assignments**:<br>
   Update valueChecker using arrow function syntax.<br>

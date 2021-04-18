@@ -1,6 +1,6 @@
 # Design UI/UX Track
 
-*Updated Sunday, April 11, 2021*
+*Updated Sunday, April 18, 2021*
 
 This document is available at:
 
@@ -35,6 +35,18 @@ Your instructors and mentors in this course include:
 You are welcome to message them directly, but please post questions that would benefit all of your peers at **#track-design**.
 
 *The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
+
+## Week 6 Courses (April 18 - 24)
+
+- **The Designing Thinking Process III**<br>
+  Different fidelity prototypes are discussed along with usability principles.
+
+  - [How to Design Low-Fidelity Digital Wireframes - 20 minutes](https://youtu.be/qYmD-7O9tyQ)
+  - [Figma UI Design Tutorial: High Fidelity Prototype- 24 minutes](https://youtu.be/FTFaQWZBqQ8)
+  - [Figma Tutorial: Prototyping](https://youtu.be/-sAAa-CCOcg)
+
+  **Assignment**: Build both a low-fi and high-fi prototype for the World Citizen project you
+  have been working on.
 
 ## Week 5 Courses (April 11 - 17)
 

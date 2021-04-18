@@ -68,6 +68,26 @@ You are welcome to message them directly, but please post questions that would b
 
 *The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
 
+## Week 6 Courses (April 18 - 24)
+
+This week covers CSS variables and accessibility and using the Lighthouse web scoring tools.
+
+- **HTML and CSS - Week 6**<br>
+
+  - [HTML and CSS - Week 6 Walkthrough - 4 minutes](https://youtu.be/8lGNVh0sYO4)
+  - [Css Variables / Custom Properties - 29 minutes](https://youtu.be/GF8aoDqebsQ) -
+    followed by a 4 question test.**
+  - [What is Web Accessibility - 2 minutes](https://youtu.be/hufMi9LZX2I)
+  - [Intro to Web Accessibility and W3C Standards - 4 minutes](https://youtu.be/20SHvU2PKsM)
+  - [Accessibility Testing - Totally Tooling Tips - 7 minutes](https://youtu.be/56zCnwj58e4) - followed by a 5 question test.
+  - [Responsive Design Example and CSS Media Query Tutorial - 7 minutes](https://youtu.be/91bYBUojyNk)
+
+  **A 3 question test is here.**
+
+  **Assignment**: Use Lighthouse to generate an accessiblity report for your previously
+  completed assignment from the last course.  Achieve a 70% score or higher.
+
+
 ## Week 5 Courses (April 11 - 17)
 
 *This week's courses were released Tuesday, April 13. Any assignments will not be due for 1 week from your receiving them.*

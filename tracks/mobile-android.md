@@ -1,6 +1,6 @@
 # Mobile Track - Android (Java/Kotlin)
 
-*Updated Wednesday, April 14, 2021*
+*Updated Sunday, April 18, 2021*
 
 This document is available at:
 
@@ -38,6 +38,23 @@ Your instructors and mentors in this course include:
 
 You are welcome to message them directly, but please post questions that would
 benefit all of your peers at **#track-mobile-android**.
+
+## Week 6 Courses (April 18 - 24)
+
+- **More on Views and View Groups**<br>
+  This course introduces the [Material Design Components](https://material.io/components?platform=android) for Android.
+
+  - [Kotlin: Setting up Material Design Components (MDC) - 7 minutes](https://youtu.be/9KxKZs1rSbw)
+  - [Kotlin: Material Design Components in Views - 12 minutes](https://youtu.be/zj9W2kbbcX4)
+  - [Kotlin: Attributes of Views and ViewGroups - 16 minutes](https://youtu.be/OsHz3JDMFXg)
+  - [Kotlin: Customizing Views and ViewGroups - 16 minutes](https://youtu.be/cr4KTsjPchA)
+  - [Kotlin: Spinners - 6 minutes](https://youtu.be/pgEiSI3sL5Q)
+  - [Kotlin: Spinnger 2 - 10 minutes](https://youtu.be/F02VnU3Brj0)
+  - [Kotlin: ListView - 46 minutes](https://youtu.be/gPSDCkdnnnk)
+  - [Kotlin: Intents - 33 minutes](https://youtu.be/XMBqkYgfYRM)
+
+  **Assignment**: Following the tutorial, create a `LoginActivity` and run in emulator or device.  Post to
+  GitHub and upload.
 
 ## Week 5 Courses (April 11 - 17)
 

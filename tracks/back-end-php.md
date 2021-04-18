@@ -1,6 +1,6 @@
 # Back-End PHP Track
 
-*Updated Sunday, April 11, 2021*
+*Updated Sunday, April 18, 2021*
 
 This document is available at:
 
@@ -35,6 +35,47 @@ Your instructors and mentors in this course include:
 You are welcome to message them directly, but please post questions that would benefit all of your peers at **#track-backend-php**.
 
 *The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
+
+## Week 6 Courses (April 18 - 24)
+
+- **PHP Week 6**<br>
+  Access control using MySQL, frameworks, and the Laravel framework.
+
+  - [How to Create a Simple User Role Management System in PHP MySQL - 4 minutes](https://youtu.be/aDPIkYujHQw)
+  - [Top 10 PHP Frameworks 2017 - 11 minutes](https://youtu.be/Q84OlNsOGQY)
+  - [Laravel Beginner Tutorial - What is Laravel - 7 minutes](https://youtu.be/1onmPIe07yo)
+  - [Laravel 8 Tutorial - What is Composer - 8 minutes](https://youtu.be/5Jqi2JzXox4)
+  - [Laravel from Scratch: Part 1 - Installation and Composer](https://youtu.be/3uYXAcit_Sg)
+  - [Creating our First Laravel 8 Project - 5 minutes](https://youtu.be/Io1eQBFjC0g)
+
+  **Assignment**: Create an authentication system using OOP and MVC and MySQL with
+  access roles for admin, customer, and staff (this is a continuation of last week's project).  Submit a link to your github repository.
+  
+  **References**
+
+  - [Laravel Tutorial for Beginners](https://www.guru99.com/laravel-tutorial.html)
+  - [Laravel Introduction - W3 Schools](https://www.w3schools.in/laravel-tutorial/intro/)
+  - [Laravel Introduction](https://laravel.com/docs/4.2/introduction)
+  - [Artisan CLI](https://laravel.com/docs/5.0/artisan)
+
+- **Introduction to Databases**<br>
+  This course will introduce you to MySQL and Firebase as well as general database concepts.  You will install MySQL locally and learn the befits of using cloud-hosted
+  databases.
+  
+  - [Walk through Introduction to Databases - 21 minutes](https://youtu.be/T2gVuf72dvc)
+  
+  **A 10 question test is here.**
+
+  **Assignment**: Using MySQL, create an employee database with the given data and perform the requested quiries.  Submit a screen shot.
+
+## Week 5 Courses (April 11 - 17)
+
+- **HTTP Secure Socket Layer (SSL and CORS)**
+
+  - [Course Intro Video - 3 minutes](https://youtu.be/R-9uYzstjOE)
+  - **A 10 question quiz is here.**
+  - Content on SSL - followed by **a 5 question test.**
+  - Content on CORS - followed by **a 5 question test.**
 
 ## Week 5 Courses (April 11 - April 17)
 

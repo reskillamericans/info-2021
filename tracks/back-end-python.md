@@ -1,6 +1,6 @@
 # Back-End Python Track
 
-*Updated Sunday, April 11, 2021*.
+*Updated Sunday, April 18, 2021*.
 
 This document is available at:
 
@@ -43,6 +43,47 @@ Your instructors and mentors in this course include:
 You are welcome to message them directly, but please post questions that would benefit all of your peers at **#track-backend-python**.
 
 *The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
+
+## Week 6 Courses (April 18 - 24)
+
+- **Python: Object Oriented Programming**<br>
+  Introduction to Python Objects and Classes.
+
+  **A 9 question test here.**<br>
+  **A 4 question test here.**<br>
+  **A 7 question test here.**
+
+  - [Python: Creating Classes and Methods - 11 minutes](https://youtu.be/C8VXFTI-pGA)
+
+  **A 5 question test here.**<br>
+  **An 8 question test here.**
+
+  **Assignment**: Creating *Category* class for budgeting with specific methods.
+
+  **References:**
+
+  - [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+  - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+
+
+- **Introduction to Databases**<br>
+  This course will introduce you to MySQL and Firebase as well as general database concepts.  You will install MySQL locally and learn the befits of using cloud-hosted
+  databases.
+  
+  - [Walk through Introduction to Databases - 21 minutes](https://youtu.be/T2gVuf72dvc)
+  
+  **A 10 question test is here.**
+
+  **Assignment**: Using MySQL, create an employee database with the given data and perform the requested quiries.  Submit a screen shot.
+
+## Week 5 Courses (April 11 - 17)
+
+- **HTTP Secure Socket Layer (SSL and CORS)**
+
+  - [Course Intro Video - 3 minutes](https://youtu.be/R-9uYzstjOE)
+  - **A 10 question quiz is here.**
+  - Content on SSL - followed by **a 5 question test.**
+  - Content on CORS - followed by **a 5 question test.**
 
 ## Week 4 Python Courses (April 4 - 10)
 

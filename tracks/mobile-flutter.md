@@ -1,6 +1,6 @@
 # Mobile Track - Flutter (Dart)
 
-*Updated Wednesday, April 14, 2021*
+*Updated Sunday, April 18, 2021*
 
 This document is available at:
 
@@ -40,6 +40,23 @@ You are welcome to message them directly, but please post questions that would b
 
 *The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
 
+##  Week 6 Courses (April 18 - 24)
+
+  - **Dart: Collections**<br>
+    
+    - [Dart Collections: Fixed-length Lists - 9 minutes](https://youtu.be/dNmNFwQuMyU)
+    - [Dart Collectiions: Growable Lists - 6 minutes](https://youtu.be/1IwrOmdsiyQ)
+    - [Dart Collections: Maps - 10 minutes](https://youtu.be/0qBSEbgC6mk)
+    - [Dart Collections: Sets - 7 minutes](https://youtu.be/xEWi5LCbCCM)
+
+    **A 5 question test here.**
+
+  **References**
+
+  - [List Class Reference](https://api.dart.dev/stable/2.12.4/dart-core/List-class.html)
+  - [Map Class Reference](https://api.dart.dev/stable/2.12.4/dart-core/Map-class.html)
+  - [Set Class Reference](https://api.dart.dev/stable/2.12.4/dart-core/Set-class.html)
+
 ## Week 5 Courses (April 11 - 17)
 
 *This week's course was released Tuesday, April 13. Any assignments will not be due for 1 week from your receiving them.*
@@ -76,6 +93,13 @@ You are welcome to message them directly, but please post questions that would b
   - [Dart Inheritance- 8 minutes](https://youtu.be/IPoHzLZZu08)
 
   **Assignment:** Build a *Class* for a bank account.  Implement *methods* to check the balance, make a deposit, and make a withdrawal.  Use `print` function to display status messages on the console as described in the assignment.  Your example should include some test code run from the `main` functions demonstrating each of the required features.
+
+  - [Abbie's Demo Video](https://www.youtube.com/watch?v=YRt2gYnAMcw&t=936s)
+
+  **Reference**
+
+  - [Dart Language Tour - Classes](https://dart.dev/guides/language/language-tour#classes)
+  - [Dart Classes](https://www.tutorialspoint.com/dart_programming/dart_programming_classes.htm)
 
 - ***Supplemental References***
   - [First-Time Dart](https://reskillamericans.github.io/   first-time-dart/) - Mike started recording some interactive tutorials for first-time programmers
