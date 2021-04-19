@@ -1,6 +1,6 @@
 # Back-End Python Track
 
-*Updated Sunday, April 18, 2021*.
+*Updated Monday, April 19, 2021*.
 
 This document is available at:
 
@@ -77,6 +77,27 @@ You are welcome to message them directly, but please post questions that would b
   **Assignment**: Using MySQL, create an employee database with the given data and perform the requested quiries.  Submit a screen shot.
 
 ## Week 5 Courses (April 11 - 17)
+
+- **Python Try/Except, Modules and Lambdas**<br>
+  Error handling, Python modules, file operations, 
+
+  - [Python 24 PyCharm, Assignment Review and Correction - 20 minutes](https://youtu.be/egX9zRfhuds)
+  - [Python 25 Try/Except/Finally and User Validation - 18 minutes](https://youtu.be/h8rnY5afJUY) - followed
+    by a 5 question test.
+  - [Python 26 Very Basic Introduction to Python Modules - 4 minutes](https://youtu.be/uoVUOTPL9Rw) - folled by a 5 question test.
+  - [Python 27 File System Database Project Skeleon - 11 minutes](https://youtu.be/HnPpm7-t6Nk)
+  - [Python 28 File System Database Project Create User - 15 minutes](https://youtu.be/Psd4e8W6zPw)
+  - [Python 29 File System Database Project - Delete User - 13 minutes](https://youtu.be/raris6GzbKE)
+  - [Python 30 File System Database Project Read File and Directory - 41 minutes](https://youtu.be/fn7H7AG4Cb0)
+  - [Python 31 File System Database Project Login & Password Secret - 14 minutes](https://youtu.be/1j0K2_sAEmY)
+
+  **Assignment**:: Wrap up of ATM project - save account balances in a file.  Track user session information
+  while users are still logged in.
+
+  **References:**
+
+  - [Tutorial Repo](https://github.com/xyluz/pythonclass)
+
 
 - **HTTP Secure Socket Layer (SSL and CORS)**
 
