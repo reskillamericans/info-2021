@@ -1,6 +1,6 @@
 # Design UI/UX Track
 
-*Updated Sunday, April 18, 2021*
+*Updated Monday, April 26, 2021*
 
 This document is available at:
 
@@ -35,6 +35,17 @@ Your instructors and mentors in this course include:
 You are welcome to message them directly, but please post questions that would benefit all of your peers at **#track-design**.
 
 *The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
+
+## Week 7 Courses (April 25 - May 1)
+
+- **Week7: The Design Thinking Process IV**<br>
+  *Usability testing.*
+
+  - [Usability Test Demo by Steve Krug - 24 minutes](https://youtu.be/1UCDUOB_aS8)
+
+    **A 3 question test here.**
+
+  **Assignment:** Create a design pitch deck building on your past work for World Citizen including a usability test report.
 
 ## Week 6 Courses (April 18 - 24)
 

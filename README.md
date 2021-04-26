@@ -1,6 +1,6 @@
 # Reskill Americans 2021 Program Info/Course Notes
 
-*Updated Monday, April 5, 2021*
+*Updated Monday, April 26, 2021*
 
 This document is available at:
 
@@ -208,6 +208,12 @@ We will try to repspond to you within 24 hours.
 
 | Week | Start Date | Description |
 | --- | --- | --- |
+| Week #10 | May 16 - 22 | First week of Projects (projected) |
+| Week #9 | May 9 - 15 | Eighth week of courses (catchup). |
+| Week #8 | May 2 - 8 | Seventh week of courses. |
+| **Week #7** | April 25 - May 1 | Sixth week of courses. |
+| Week #6 | April 18 - 24 | Fifth week of courses. |
+| Week #5 | April 11 - 17| Fourth week of courses. |
 | Week #4 | April 4 - 10| Third week of courses. |
 | Week #3 | March 29 - April 3| Second week of courses.  **The first week's assignments need to be completed to remain enrolled in the program**. |
 | Week #2 | March 21 - 27 | First week of courses on LMS.  Choice of Track made. |

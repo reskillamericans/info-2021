@@ -1,6 +1,6 @@
 # Mobile Track - Flutter (Dart)
 
-*Updated Sunday, April 18, 2021*
+*Updated Monday, April 26, 2021*
 
 This document is available at:
 
@@ -39,6 +39,32 @@ Your instructors and mentors in this course include:
 You are welcome to message them directly, but please post questions that would benefit all of your peers at **#track-mobile-flutter**.
 
 *The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
+
+## Week 7 Courses (April 25 - May 1)
+
+- **Introduction to Flutter**<br>
+  - [Flutter: Create first app - 4 minutes](https://youtu.be/s8Bk-jcDLOs)
+  - [Flutter: Project Structure - 6 minutes](https://youtu.be/-RSWLEWW2pM)
+  - [Flutter: Launch app on a device - 4 minutes](https://youtu.be/V8RTDuqMr6o)
+  
+    **A 4 question test here.**
+
+  - [Flutter: Basic hello world app - 15 minutes](https://youtu.be/wdaVhA4EjZ0)
+  - [Flutter: Layouts - 13 minutes](https://youtu.be/FSrjnm0zh_8)
+  
+
+  **Assignment 1**: Fork [this repository](https://github.com/Abbie-n/Flutter_1point0.git)
+  and make the changes outlined in the video.  Submit your repository link.
+
+  **Assignment 2**: Make a Flutter page that displays your portfolio (name and description).
+  Submit link to your repository.  Be creative!
+
+  **References:**
+
+  - [Flutter Basic Widgets](https://flutter.dev/docs/development/ui/widgets/basics)
+  - [Flutter Layout Widgets](https://flutter.dev/docs/development/ui/widgets/layout)
+  - [Layouts in Flutter](https://flutter.dev/docs/development/ui/layout)
+
 
 ##  Week 6 Courses (April 18 - 24)
 

@@ -1,6 +1,6 @@
 # Back-End Python Track
 
-*Updated Monday, April 19, 2021*.
+*Updated Monday, April 26, 2021*.
 
 This document is available at:
 
@@ -43,6 +43,21 @@ Your instructors and mentors in this course include:
 You are welcome to message them directly, but please post questions that would benefit all of your peers at **#track-backend-python**.
 
 *The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
+
+## Week 7 Courses (April 25 - May 1)
+
+- **Python: Introduction to Web Development**<br>
+  Introducing the Django web server framework.
+
+  **A 4 question test here.**
+- [Installing and Activating Virtual Environments on Windows - 4 minutes](https://youtu.be/0Gv7xeYsGGA)
+- [Installing and Activating Virtual Environments on Linux/MacOS - 3 minutes](https://youtu.be/2iBhkitnU0Y)
+- [Creating a Repository for Your Django Project - 8 minutes](https://youtu.be/bBonieVAQ2Y)
+- [Installing and Setting Up Django Project - 7 minutes](https://youtu.be/xE_9JXYYGvg)
+- [Creating an Application in a Django Project - 9 minutes](https://youtu.be/DNeZ0vxV7vw)
+
+  **Assignment:** Share link to your GitHub repo with your Django project - including a screenshot in the README.md.
+
 
 ## Week 6 Courses (April 18 - 24)
 

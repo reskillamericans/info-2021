@@ -1,6 +1,6 @@
 # Mobile Track - Android (Java/Kotlin)
 
-*Updated Sunday, April 18, 2021*
+*Updated Monday, April 26, 2021*
 
 This document is available at:
 
@@ -38,6 +38,18 @@ Your instructors and mentors in this course include:
 
 You are welcome to message them directly, but please post questions that would
 benefit all of your peers at **#track-mobile-android**.
+
+## Week 7 Courses (April 25 - May 1)
+
+- **Week6 - Android and Kotlin - A Better Way**<br>
+  - [Kotlin - RecyclerView - 42 minutes](https://youtu.be/doOPCFNjk4Y)
+  - [Kotlin - RecyclerView Testing - 1 minute](https://youtu.be/1fO6c0U41j8)
+  - [Kotlin - Constraint Layout - 32 minutes](https://youtu.be/JjbosaqiwPE)
+  - [Kotlin - (Layout) Fragments - 10 minutes](https://youtu.be/Rc9T9TIpfJg)
+  - [Kotlin - Framents Part 2 - 18 minutes](https://youtu.be/vjGpHnepL4w)
+
+  **Assignment**: Submit GitHub repo and screenshots for contact category screen and
+  filtered contact list (at least 2 activities).
 
 ## Week 6 Courses (April 18 - 24)
 
