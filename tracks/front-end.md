@@ -1,6 +1,6 @@
 # Front-End Track
 
-*Updated Sunday, April 18, 2021*
+*Updated Friday, May 28, 2021*
 
 This document is available at:
 
@@ -67,6 +67,25 @@ Your instructors and mentors in this course include:
 You are welcome to message them directly, but please post questions that would benefit all of your peers at **#track-frontend**.
 
 *The following course list covers the specific courses in your track.  Please also note the General Courses listed in the top level [Program Info Page](../README.md).*
+
+## Week 8 Courses (May 2 - May 8)
+
+
+
+## Week 7 Courses (April 25 - May 1)
+
+This week we are going back to JavaScript programming convering ansychronous programming and arrow functions.
+
+- **Javascript Week 3**<br>
+  - **Assignment** - Write valueChecker using Arrow function syntax.
+  - **Assignment** - Write sumCalculator using Arrow function syntax.
+  - **A 5 question test on asynchronous programming.**
+
+  - [Note Taker: The app interface - 2 minutes](https://youtu.be/7XX-XiEMS2E)
+  - [Note Taker: Code Explanation - 3 minutes](https://youtu.be/m3cHV7ye-f0)
+
+  - **Assignment**:  Complete Note Taker app - cloning from [this repository](https://github.com/IDTitanium/notesApp).
+
 
 ## Week 6 Courses (April 18 - 24)
 

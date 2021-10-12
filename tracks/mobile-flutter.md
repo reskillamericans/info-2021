@@ -51,6 +51,10 @@ You are welcome to message them directly, but please post questions that would b
 
   - [Flutter: Basic hello world app - 15 minutes](https://youtu.be/wdaVhA4EjZ0)
   - [Flutter: Layouts - 13 minutes](https://youtu.be/FSrjnm0zh_8)
+
+  **References:**
+
+  - [Flutter in VS-Code](https://flutter.dev/docs/development/tools/vs-code)
   
 
   **Assignment 1**: Fork [this repository](https://github.com/Abbie-n/Flutter_1point0.git)
