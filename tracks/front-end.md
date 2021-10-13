@@ -70,7 +70,9 @@ You are welcome to message them directly, but please post questions that would b
 
 ## Week 8 Courses (May 2 - May 8)
 
+This we we discuss DOM manipulation and the ReactJS DOM-rendering library.
 
+- **DOM Manipulation and ReactJS**<br>
 
 ## Week 7 Courses (April 25 - May 1)
 
